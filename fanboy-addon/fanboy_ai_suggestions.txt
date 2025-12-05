@@ -46,6 +46,8 @@ www.google.com##.VwJg8d:has-text(AI Shopping)
 mail.google.com###google-hats-survey
 ! msn.com
 msn.com##codex-bing-chat[instance-id="CodexBingChat"]
+! outlook.office.com
+outlook.office.com##div#CopilotCommandCenterButton
 ! support.google.com
 support.google.com##.helpPanelContainerRoot:has-text(Help guide)
 ! milanofinanza.it
