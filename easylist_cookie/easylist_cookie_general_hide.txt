@@ -1707,6 +1707,7 @@
 ###cookie-banner-wrap
 ###cookie-banner2
 ###cookie-banner_flag
+###cookie-bar
 ###cookie-bar-2019
 ###cookie-bar-bottom
 ###cookie-bar-fixed
