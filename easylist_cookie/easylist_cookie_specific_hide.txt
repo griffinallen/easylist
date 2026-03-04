@@ -2711,6 +2711,7 @@ websummit.com##[class*="CivicCookie__"]
 picarto.tv##[class*="CookieCompliance_"]
 plente.com##[class*="SnackbarMessages__snackbar_"]
 noovo.ca##[class*="modalstyles__StyledModalContainer-"]
+prochepetsk.ru##[class*="notifycation_notifycation"]:has-text(cookie)
 weedmaps.com##[class*="styles__BannerContainer-"]
 anthropic.com##[class^="ConsentBanner_"]
 getunleash.io##[class^="CookieControl"]
