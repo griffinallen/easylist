@@ -1461,6 +1461,7 @@ cloud.vmware.com##.cookie-usage-banner
 chatspin.com,flingster.com##.cookie-use-notice
 rebeltech.co.za##.cookie-wall
 fishermap.org,ittelo.ru##.cookie-window
+cht.com.tw##.cookie-wrap
 btimesonline.com##.cookieAcceptBar
 woktowalk.com##.cookieAceptance
 swinglifestyle.com##.cookieAckContainer
