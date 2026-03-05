@@ -1803,6 +1803,7 @@ fedex.com##.fxg-alert__fdx_cookie_notice
 fxstreet.com##.fxs_footer
 cgtn.com##.g-dialog
 replika.ai,replika.com##.gEQwvO
+ura.news##.gQ:has-text(cookie)
 whatsnewonthenet.com##.gaoop
 graviti.com##.gas-cookie-bar
 themeflood.com##.gatewayContainer
