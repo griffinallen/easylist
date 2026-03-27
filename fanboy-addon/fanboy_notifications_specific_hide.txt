@@ -109,6 +109,7 @@ metroworldnews.com.br,publimetro.cl##.notification-subs
 almanar.com.lb##.notification-wrap
 relax-job.com##.p-top-app-appeal
 mail.ru##.ph-balloo
+business-gazeta.ru##.popupAcceptNotify
 actionnetwork.com##.promotion-card__container
 flvto.biz##.push-offer
 ampparit.com##.sidebox-header:has(> [title="Ampparit sovellus"])
@@ -167,6 +168,7 @@ bmwc.marv.jp###footer_badge-fixed
 m.economictimes.com###footer_banner
 imgur.com###getAppButton
 mercari.com###getTheAppFooter
+gsma.com###gsma-app-bottom-bar
 patreon.com###half-sheet-app-banner
 ventusky.com###header > .ii[href]
 aliexpress.com,aliexpress.us###header-float-banner

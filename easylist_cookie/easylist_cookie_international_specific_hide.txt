@@ -164,7 +164,6 @@ blauarbeit.de###messages-container
 meinegirokarte.de,vimpay.eu###modalBackground
 meinegirokarte.de,vimpay.eu###modalCookieAcceptance
 starmix.de###muffin
-roehnfried.de###myCookie
 hartz.info###my_privacy_policy
 newsaktuell.de###nacc-container
 newsaktuell.de###nacc-overlay
@@ -697,6 +696,7 @@ immo-leclercq.com##.consent_info
 nomadays.fr##.container-fixed-cookie
 parcoursintegration.be##.container_priv_state
 glamuse.com##.cookbar-overlay
+engie.fr##.cookie-modal-inner
 terrasana.fr##.cookie-policy-component_cookieContainer__2Zc7b
 solidaris-wallonie.be##.cookie-reminder-banner
 ruedesvignerons.com##.cookie-toolbar-container
@@ -895,7 +895,6 @@ news.pts.org.tw##.cookie-flex
 sf-express.com##.cookie-policy_cookiePolicyWrapper__cwbwV
 bewildcard.com##.cookie-policy_cookiePolicy__iVL65
 hozonauto.com##.cookie-tips
-cht.com.tw##.cookie-wrap
 hkbu.edu.hk##.cookies-consent-banner
 unity.cn##.cookies-permission_2kEyTVGb
 news.tvb.com##.cookiesAgreeContainer
@@ -1892,6 +1891,7 @@ tokyotokyo.jp##.annotation-area
 knb.ne.jp##.atention_cookie
 nhk.or.jp##.bottom_optout_announce
 moresco.co.jp##.box_cookie_allow
+xtech.nikkei.com##.bpPrivacy
 animatebookstore.com##.ccst_area
 ebarafoods.com##.consent_c
 get-cp.jp##.cookie-agreement
@@ -1927,7 +1927,7 @@ fincity.tokyo##.policy
 ferrotec.co.jp##.policyFix
 eclat.hpplus.jp##.popup_banner
 ocnk.net##.popup_confirmation_bar
-dl.ndl.go.jp##.privacy-confirmation
+ndl.go.jp##.privacy-confirmation
 layers.co.jp##.r-footer-cookie
 osaki.co.jp##.reuse-component
 picrew.me##.st-Terms_Wrapper
@@ -1938,6 +1938,8 @@ vroid.com##div[class^="GDPR__Container-"]
 ! ---------- Korean ----------
 !
 kayak.co.kr###Ag6p
+aion2.plaync.com###gCookieConfirmDimmed
+aion2.plaync.com###gCookieConfirmToast
 kotra.or.kr##.cookiePopArea
 !
 ! ---------- Latvian ----------
@@ -2264,6 +2266,7 @@ dlapacjenta.pl,lomixshop.pl##.notice_bar
 urbancity.pl##.notification-alert-wrapper
 ucando.pl##.notifications
 eltrox.pl##.overlay-gdpr
+wtp.waw.pl##.page-consent
 bilkom.pl##.policy
 mein-schauinsland.de##.popup-top-header
 masz.eu##.popupContent
@@ -2639,6 +2642,7 @@ gazprombank.ru###cookie-accept
 cardiovascular.elpub.ru###cookie-banner-wrapper
 ria-m.tv###cookie-msg
 companies.rbc.ru###cookie-popup
+violity.com###cookieConsentPopup
 aeroflot.ru###cookieInfo
 abok.ru###cookieNotice
 itweek.ru###cookie_notification
@@ -2769,7 +2773,6 @@ supersamsev.ru##.cookie-consent-container-wrap
 lk-new.vtbnpf.ru##.cookie-layout
 rutube.ru##.cookie-message-module__cookie-consent
 sponsr.ru##.cookie-site-alert
-fc-baltika.ru##.cookie-wrap
 korusconsulting.ru##.cookieConfirm
 rusnano.com##.cookie__in
 gostest.com##.cookie__open
@@ -2819,6 +2822,7 @@ mironline.ru##.footer-personal-data
 ixbt.com,ixbt.games##.gdpr-root
 gosuslugi.ru##.gw-analytics-agreement
 ozon.ru##.h7
+business-gazeta.ru##.has-cookie
 dns-shop.ru##.header-cookie-notification
 solid.ru##.i_alert
 kwork.ru##.info-cookie-uses
@@ -2920,6 +2924,7 @@ ticketstour.ru##.using-cookies
 antex-e.ru##.uss_privacy_policy_wrap
 sanremo-pizza.com##.v-cookie-notification
 bimedis.ru##.v-dialog__content
+litnet.com##.view-confirm-cookie
 wroom.ru##.warning
 xn--1--rlchba2deh.xn--p1ai##.warning_cookie
 msu.ru##.we-use-cookies-block
@@ -2930,6 +2935,7 @@ warthunder.ru##.wt-cb
 yasno.live##.y-gdpr
 uralkarcher.ru##.zalupa
 crowd.mos.ru,ctc.ru##[class^="AcceptCookie_"]
+jivo.ru##[class^="cookie-consent_container"]
 connectgas.ru##[class^="cookieAgreement"]
 4game.com##[class^="fcw-wrap-"]
 sberindex.ru##[class^="styles_Layout__cookiePanel_"]
@@ -2957,6 +2963,7 @@ asna.ru##div[class^="modalCookies_"]
 rencredit.ru##div[data-attention-id="3420"]
 yoomoney.ru##div[data-qa="gdpr"]
 youdo.com##div[data-sentry-component="AccessCookies"]
+smi2.ru##div[data-sentry-component="CookieBtn"]
 russianfield.com##div[data-storage-item^="t886cookiename_"]
 knmoloko.ru##div[data-storage-item^="t887cookiename_"]
 litres.ru##div[data-testid="cookieAcceptPopup"]
@@ -3130,6 +3137,7 @@ lacentral.com###page-overlay
 scherzo.es###pdcc-modal-bg
 compartamos.com.mx###polCook
 palma.es###popupConsent
+portal.edu.gva.es###portaledu-policy-banner
 tusclasesparticulares.com###pp
 esenviseu.net###qLtempOverlay
 montepiedad.com.mx###static-cover
@@ -3154,6 +3162,7 @@ risketosnomaschetos.es##.barraCookies
 ciudadanos-cs.org##.basic--draw-cookie-message-bar-notice
 ciudadanos-cs.org##.basic--draw-cookie-message-bar-notice--page-content-layer
 queway.es##.basicLightbox
+viabcp.com##.bcp_politica_uso_cookieAdobe
 sinfonicadegalicia.com##.bg-overlay
 franquiciasmalvon.com,malvon.es##.bg_popup
 resultados-futbol.com##.blur-cookies
@@ -3478,6 +3487,7 @@ womm.com.tr##.style_cookie__UNiBi
 sozcu.com.tr##.using-cookie
 fikriyat.com,sabah.com.tr,yeniasir.com.tr##.veriAltBar
 yenisafak.com##.ys-cookie-modal
+trt1.com.tr##[class^="cookies-info_cookies-info-wrapper"]
 beinsports.com.tr##div[class*="cookie_cookieConsentWrapper"]
 sekerbank.com.tr##div[class^="cookiebox_cookieBox"]
 trtspor.com.tr##div[class^="cookies-info_"]
@@ -3518,6 +3528,7 @@ today.ua##.politic_confidel
 forklog.com,forklog.com.ua##.terms_popup
 inter.ua##.warning
 kernel.ua,root-nation.com##[role="dialog"]
+mriia.gov.ua##app-cookie-dialog
 olx.ua##div[data-testid="cookies-overlay__container"]
 !
 ! ---------- Indonesian ----------
@@ -3533,6 +3544,7 @@ myorbit.id##[style="align-items: center; background-color: rgb(237, 245, 252); p
 !
 vdes.vn##.cookieBanner_show__1E8Dj
 ants.vn##.sg-popup-content
+fptshop.com.vn##[data-cookie-consent-modal="true"]
 !
 ! ---------- Welsh ----------
 !

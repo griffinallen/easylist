@@ -148,6 +148,7 @@ perchance.org###adCtn
 spanishdict.com###adMiddle2-container
 sainsburysmagazine.co.uk###adSlot-featuredInBlue
 sherdog.com###adViAi
+travelm.de###ad__banner
 myevreview.com###ad_aside_1
 cheatcodes.com###ad_atf_970
 musescore.com###ad_cs_12219747_300_250
@@ -752,7 +753,6 @@ unitconversion.org###iright
 allnewspipeline.com###isg_add
 icon-icons.com###istockphoto-placeholder
 fakeupdate.net###itemz
-winaero.com###jkhskdfsdf-iycc-4
 winaero.com###jkhskdfsdf-iycc-5
 cnn.com###js-outbrain-rightrail-ads-module
 9gag.com###jsid-ad-container-page_adhesion
@@ -1887,6 +1887,7 @@ disqus.com##.ad__adh-wrapper
 nationalpost.com,vancouversun.com##.ad__inner
 politico.eu##.ad__mobile
 canoe.com,dailykos.com##.ad__placeholder
+travelm.de##.ad__row
 canoe.com##.ad__section-border
 asianjournal.com##.ad_before_title
 kyivpost.com##.ad_between_paragraphs
@@ -3399,6 +3400,7 @@ newser.com##.fs-sticky-footer
 bossip.com##.fsb-desktop
 bossip.com##.fsb-toggle
 ghacks.net##.ftd-item
+speedof.me##.ftl-zone
 familytreenow.com##.ftn_detail_mid_one
 familytreenow.com##.ftn_detail_mid_two
 newser.com##.fu4elsh1yd
@@ -3638,6 +3640,7 @@ torquenews.com##.header-wrapper
 cointelegraph.com##.header-zone__flower
 gelbooru.com##.headerAd
 dailytrust.com##.header__advert
+travelm.de##.header__banner
 thehits.co.nz##.header__main
 gifcompressor.com,heic2jpg.com,jpg2png.com,png2jpg.com,webptojpeg.com,wordtojpeg.com##.header__right
 m.thewire.in##.header_adcode
@@ -4343,6 +4346,7 @@ marijuanamoment.net##.mvp-widget-ad
 malwaretips.com##.mwt_ads
 invezz.com##.mx-auto
 smallseotools.com##.mx-auto.d-block
+mangapill.com##.mx-auto.m-3.z-0
 theawesomer.com##.mxyptext
 decrypt.co##.my-10.xl\:flex.justify-center
 standardmedia.co.ke##.my-2
@@ -6035,6 +6039,7 @@ gamelevate.com##[data-adpath]
 coingecko.com##[data-ads-target="banner"]
 czechtheworld.com##[data-affiliate]
 thesun.co.uk##[data-aspc="newBILL"]
+european-alternatives.eu##[data-banner-key]
 groupon.com##[data-bhc$="sponsored_carousel"]
 costco.com##[data-bi-placement="Criteo_Home_Espot"]
 costco.ca##[data-bi-placement="Criteo_Product_Display_Page_Espot"]
@@ -6217,6 +6222,7 @@ cnx-software.com##[href*="banner"]
 9jaflaver.com,alaskapublic.org,allkeyshop.com,analyticsinsight.net,ancient-origins.net,animeidhentai.com,arabtimesonline.com,biblestudytools.com,bitcoinworld.co.in,christianity.com,cnx-software.com,coingolive.com,csstats.gg,digitallydownloaded.net,digitbin.com,domaingang.com,downturk.net,flickeringmyth.com,fresherslive.com,gizmochina.com,glitched.online,glodls.to,guidedhacking.com,hackernoon.com,indishare.org,khmertimeskh.com,litecoin-faucet.com,mbauniverse.com,mediaite.com,mgnetu.com,myreadingmanga.info,newsfirst.lk,owaahh.com,parkablogs.com,premiumtimesng.com,railcolornews.com,resultuniraj.co.in,ripplesnigeria.com,rtvonline.com,ryuugames.com,sashares.co.za,sofascore.com,totemtattoo.com,trancentral.tv,unboxdiaries.com,vumafm.co.za,yugatech.com,zmescience.com##[href*="bit.ly/"]
 beforeitsnews.com,in5d.com##[href*="hop.clickbank.net"]
 bleepingcomputer.com##[href*="https://www.bleepingcomputer.com/mgo/"]
+businessaccountingbasics.co.uk##[href*="partnerlinks.io/"] > img
 cnx-software.com##[href*="url2.cnx-software.com/"]
 cnx-software.com##[href*="url3.cnx-software.com/"]
 linuxlookup.com##[href="/advertising"]
@@ -7384,6 +7390,7 @@ pixiv.net##.list-none:has(> div > [id^="adsdk"])
 pcgamer.com##.listingResult:has(> .sponsored-post)
 euronews.com##.m-object:has(.m-object__spons-quote)
 justetf.com##.m-sep-l:has(#partnerNewsBox)
+triblive.com##.mantine-Center-root:has(.ads-holder)
 acmemarkets.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.com,kingsfoodmarkets.com,pavilions.com,shaws.com,starmarket.com,tomthumb.com,vons.com##.master-product-carousel:has([data-carousel-api*="search/sponsored-carousel"])
 acmemarkets.com,albertsons.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.com,kingsfoodmarkets.com,pavilions.com,randalls.com,safeway.com,shaws.com,starmarket.com,tomthumb.com,vons.com##.master-product-carousel:has([data-carousel-driven="sponsored-products"])
 songbpm.com##.mb-6:has(> section > div[id^="ad--searches"])
@@ -7932,7 +7939,6 @@ thepinknews.com##.video-player__container
 tasty.co##.video-wrap
 miamiherald.com##.videoInstance
 dpreview.com##.videoWrapper
-consequence.net##.video_container
 gbnews.com,marketscreener.com##.vsly-player
 destructoid.com,wegotthiscovered.com##.wp-block-gamurs-ad
 f1oversteer.com##.wp-block-grvmedia-grv-video
