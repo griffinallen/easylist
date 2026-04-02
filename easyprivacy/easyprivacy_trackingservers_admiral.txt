@@ -468,6 +468,7 @@
 ||dapperdiscussion.com^
 ||dashingdrop.com^
 ||datacirrus.com^
+||datapickles.com^
 ||daybreaklights.com^
 ||daymodern.com^
 ||dazzlingbook.com^
@@ -2114,6 +2115,7 @@
 ||waxsirens.com^
 ||wayjoyfarm.com^
 ||weatherbytes.net^
+||weatherpush.net^
 ||websitesdude.com^
 ||weeklybanner.com^
 ||wellgroomedapparel.com^
@@ -2134,9 +2136,11 @@
 ||whoogled.com^
 ||whymaze.com^
 ||widgethouse.com^
+||wikiquotations.com^
 ||wikiwhatwhere.com^
 ||wildcommittee.com^
 ||wildwoodavenue.com^
+||windbeetle.com^
 ||wirecomic.com^
 ||wiredforcoffee.com^
 ||wirenewsletter.com^

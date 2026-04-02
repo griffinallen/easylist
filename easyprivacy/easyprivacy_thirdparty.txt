@@ -320,6 +320,7 @@
 ||api.visitorapi.com^$third-party
 ||api.wipmania.com^
 ||apibaza.com/pixel/
+||aplus.alibaba.com^
 ||apm-engine.meteor.com^$third-party,xmlhttprequest
 ||app.abralytics.com/assets/tracker/index.js
 ||app.adjust.com^$third-party
@@ -467,6 +468,7 @@
 ||beacon.sftoaa.com^
 ||beacon.sojern.com^
 ||beacon.statful.com^
+||beacon.webpresence.work^
 ||beacons.mediamelon.com^
 ||beam.mjhlifesciences.com^
 ||beamanalytics.b-cdn.net^
@@ -1355,6 +1357,7 @@
 ||impdesk.com/smartpix/
 ||impel.io/releases/analytics/
 ||impress.vcita.com^
+||impression.appsflyer.com^
 ||impressionmedia.cz/statistics/
 ||in.treasuredata.com^
 ||inbound-analytics.pixlee.co^
@@ -1801,6 +1804,7 @@
 ||ondigitalocean.app/insight-analytics.js
 ||one.store/v1/analytics/
 ||onecount.net/onecount/oc_track/
+||onelinksmartscript.appsflyer.com^
 ||onelinksmartscript.appsflyersdk.com^
 ||onescreen.net/os/static/pixels/
 ||onesignal.com/api/v*/apps/
@@ -2199,6 +2203,7 @@
 ||sdiapi.com/reporter/
 ||sdk-service.nsureapi.com/events
 ||sdk.51.la^$third-party
+||sdk.appsflyer.com^
 ||sdk.mrf.io/statics/marfeel-sdk.js
 ||sdrive.skoda-auto.com^
 ||sdtagging.azureedge.net^

@@ -133,6 +133,7 @@ nerdwallet.com#?#._3JhNDX:has-text(Advertisement)
 netflixjunkie.com#?#[style="text-align:center"]:has-text(ADVERTISEMENT)
 newegg.com#?#.product-banner:has-text(Sponsored)
 news.yahoo.com#?#div.md\:block:has-text(Advertisement)
+nextdoor.com#?#[data-v3-view-type="V3Wrapper"]:has(> [data-testid="feed-item-visibility-tracker"]:has-text(Sponsored))
 noelleeming.co.nz#?#div.product-tile:has(span:has-text(Sponsored))
 noon.com#?#.swiper-slide:has-text(Sponsored)
 noon.com#?#span[class*="productContaine"]:has(div:has-text(Sponsored))
@@ -235,7 +236,7 @@ walmart.*#?#div > div[io-id]:has-text(Sponsored)
 walmart.*#?#div[role="group"]:has(div:has-text(/Sponsored|Commandité/))
 yelp.*#?#main[class^="searchResultsContainer"] li h2:has-text(Sponsored)
 yts.*#?#.bbj:has-text(Warning)
-yts.*#?#.col-lg-12:has-text(Please enable)
+yts.*#?#.col-lg-12:has-text(/Please enable|indirirken/)
 ! ABP CSS injection filters
 benzinga.com##.cUDaEv {margin-top:162px !important;}
 benzinga.com##.gZyLpV .mobile-header {margin-top:0 !important;}

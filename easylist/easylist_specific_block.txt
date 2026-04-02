@@ -52,6 +52,7 @@
 ||api.bitchute.com/slot1/
 ||api.bitchute.com/slot2/
 ||api.bo3.gg/api/v1/ad_banners
+||api.deepai.org/thrad-ad-proxy
 ||api.mumuglobal.com^
 ||api.production.k8s.y3o.tv/nevarro/video-ads/$domain=yallo.tv
 ||app.mps.vsnt.net/fetch/ext/load-rottentomatoes-web.js$domain=rottentomatoes.com
@@ -523,6 +524,8 @@
 ||pelisfree.site/js/script_
 ||petrolplaza.net/AdServer/
 ||pexels.com^*/sponsored-media/
+||ph-files.imgix.net/381feabc-7331-4b7e-a5be-1d606cf38c06.png$domain=producthunt.com
+||ph-files.imgix.net/c160f39d-096a-4679-a8ef-eb68c537359c.png$domain=producthunt.com
 ||phonearena.com/js/ops/taina.js
 ||picrew.me/vol/ads/
 ||pimpandhost.com/mikakoki/
@@ -551,6 +554,7 @@
 ||pressablecdn.com/wp-content/uploads/Site-Skin_update.gif$domain=bikebiz.com
 ||prewarcar.com/*-banners/
 ||prod-sponsoredads.mkt.zappos.com^
+||product.rightmove.co.uk/featured-customer-v2.html
 ||products.gobankingrates.com^
 ||publicdomaintorrents.info/grabs/hdsale.png
 ||publicdomaintorrents.info/rentme.gif
@@ -797,6 +801,7 @@
 ||fwcdn1.com/js/fwn.js
 ||fwcdn1.com/js/storyblock.js
 ||g.ibtimes.sg/sys/js/minified-video.js
+||gannett-player.ex.co^$domain=play.usatoday.com
 ||geo.dailymotion.com^$script,domain=wol.gg
 ||go.trvdp.com^$domain=~canaltech.com.br|~ig.com.br|~monitordomercado.com.br|~noataque.com.br|~oantagonista.com.br|~olhardigital.com.br|~omelete.com.br
 ||imgix.video^$domain=inverse.com

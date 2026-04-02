@@ -24,6 +24,7 @@ skylineatlas.de###area2
 autoscout24.com,autoscout24.de###as24-cmp-popup
 brack.ch###b2c-consent
 ingelheim.de###banny-banner-outer
+bodyfokus.de###bfCookieDisclaimer
 muehlenapotheken.de,stellenvermittlung-nordkirche.de###bg-datenschutz
 xinedome.de###block-consent-block
 dorda.at###block-cookiesblock
@@ -651,6 +652,7 @@ revmed.ch###ng-cc
 giappo.com###normativa
 altaprofits.com###notification
 store-opart.fr###ocw_conteneur
+vie-publique.fr###orejime
 ameliconnect.ameli.fr###pageConsentement
 cleasite.fr###panel-user-info
 pharmasimple.com###pharmabiscuit-popin
@@ -795,6 +797,7 @@ asharq.com##.PrivacyPopupstyled__PrivacyPopupContainer-uk07rq-0
 misa.gov.sa##.cookie-desclaimer
 tn.up2live.online##.mw-cookie-wrapper
 mt.gov.sa##app-mt-cookie
+ksu.edu.sa##div.fixed:has(.lucide-cookie)
 !
 ! ---------- Belarusian ----------
 !
@@ -853,6 +856,7 @@ formabania.bg##.header-notice
 praktiker.bg##.info-message
 bagira.bg,hit-electronics.com##.js-consent
 icap.bg##.mpp-container
+candykids.bg##.noty_cont
 adamieva.info##.overlay
 audio-guide.bg,medspa.bg##.popup-policy
 primetech.bg##div[style^="color: rgb(51, 51, 51); text-align: center;"]
@@ -1470,6 +1474,7 @@ calendar.2net.co.il###UseCookies
 citroen.co.il,dsautomobiles.co.il,maccabi4u.co.il,mg-israel.co.il,opel.co.il,peugeot.co.il###ZA_CAMP_BANNER_CONTAINER
 maccabi4u.co.il###ZA_CAMP_MOBILE_CONTAINER
 meitav.co.il,xnes.co.il###ZA_CAMP_SLIDEIN_CONTAINER
+glatiul.co.il###acb-consent
 myofer.co.il###bottom-toasts-layer
 lubinskitrade.co.il###ccm-cookie-banner
 cmotors.co.il###cm-consent-banner
@@ -1519,6 +1524,7 @@ amigo.co.il,creative.co.il,drnireyal.co.il,ncl-lawyers.com,playmobil.co.il,sagol
 boutiquecentral.co.il,herzliyamuseum.co.il,jerusalemwineries.co.il,otzarot.org.il,telavivfoundation.org##.fotpopup
 cinema-city.co.il,peamitstore.co.il,royalty.me##.gdpr-module
 bathandbodyworks.co.il,castro.com,delta.co.il,fixfixfixfix.co.il,lilit.co.il,panta-rei.com,urbanica-wh.com##.idus_popup_widget_cookie_popup
+taamal.co.il##.ilpc-banner
 ksp.co.il##.ltr-1075xo6
 mdyo.co.il##.mdyo-cookie
 diners.co.il##.message-container
@@ -1536,7 +1542,7 @@ ksp.co.il##.rtl-1075xo6
 letlive.org.il##.site-consent-banner
 cts.co.il##.upnext-cookie-notice
 dominos.co.il##[class^="CloseableDisclaimer_"]
-dynamica.co.il,kfar.co.il,wineandmore.co.il##[class^="cookiesPopup"]
+dror-tools.co.il,dynamica.co.il,espressobar.com,kfar.co.il,mnmltd.co.il,wineandmore.co.il,workimhi.co.il##[class^="cookiesPopup"]
 alljobs.co.il##[id^="ZA_CAMP_BUBBLE_CONTAINER_CID_"]
 lastminute.co.il##app-notifications-container
 iec.co.il##app-sticky-banner
@@ -1867,7 +1873,7 @@ lyrics.imicomweb.com###agreement
 hyojito.co.jp###agreement-area
 jbpo.or.jp###c_policy_wrap
 juken-mikata.net###cookieAlt
-etvos.com,marna.jp,naturesway.jp,noevirgroup.jp,online.tutuanna.jp,plazastyle.com,right-on.co.jp,store.kadokawa.co.jp,store.yoga-lava.com,wind.yamano-music.co.jp,y-aoyama.jp###cookieBox
+bunka-salon.d-kintetsu.co.jp,daytona-park.com,etvos.com,marna.jp,naturesway.jp,noevirgroup.jp,online.tutuanna.jp,plazastyle.com,right-on.co.jp,store.kadokawa.co.jp,store.yoga-lava.com,wind.yamano-music.co.jp,y-aoyama.jp###cookieBox
 keisei.co.jp###cookiePolicy
 tokyostarbank.co.jp###floatArea
 wisdom.nec.com###func-cookie
@@ -2640,6 +2646,7 @@ solgarvitamin.ru###consent-modal
 gorodperm.ru###cookb
 gazprombank.ru###cookie-accept
 cardiovascular.elpub.ru###cookie-banner-wrapper
+finambank.ru###cookie-consent-popup
 ria-m.tv###cookie-msg
 companies.rbc.ru###cookie-popup
 violity.com###cookieConsentPopup
@@ -2765,10 +2772,12 @@ web-axioma.ru##.confform
 aquagrunt.ru##.confidentalInfo
 atlant-minsk.ru##.confirm-panel
 darina.su##.container-coocke
+tastycoffee.ru##.container__content
 2x2tv.ru##.cook-web
 mnogo.ru##.cook_LFPnK
 propb.ru##.cooke
 invitro.ru##.cookie--popup
+spbu.ru##.cookie-block
 supersamsev.ru##.cookie-consent-container-wrap
 lk-new.vtbnpf.ru##.cookie-layout
 rutube.ru##.cookie-message-module__cookie-consent
@@ -2845,6 +2854,7 @@ bestradio.fm,iblitzmods.ru,kinoby.ru,tvguru.ru##.message-alert
 npfb.ru##.messenger-popup
 mosreg.ru##.metrica-warning
 strana.one,strana.today##.modal
+mvideo.ru##.modal-wrapper
 asna.ru##.modalCookies_root__356Q-
 shophair.ru##.modal_popup_sessid_box
 nspk.ru##.modals-cookies
@@ -2857,8 +2867,9 @@ culture.ru##.notify-bar
 psychologies.ru##.notify-messages-popups
 gorodkirov.ru,ngzt.ru##.notifycation
 33-news.ru,news-komi.ru##.notifycation__wrap
-ngnovoros.ru,pg02.ru,pg11.ru,pg12.ru,pg21.ru,pg37.ru,pg46.ru,pgn21.ru,pgr76.ru,prochepetsk.ru,prodzer.ru,progorod33.ru,progorod43.ru,progorod58.ru,progorod62.ru,progorodnn.ru,progoroduhta.ru,prosaratov.ru,usolie.info,youtvnews.com##.notifycation_notifycation__BeRRP
+lipetsknews.ru,ngnovoros.ru,pg02.ru,pg11.ru,pg12.ru,pg21.ru,pg37.ru,pg46.ru,pgn21.ru,pgr76.ru,prochepetsk.ru,prodzer.ru,progorod33.ru,progorod43.ru,progorod58.ru,progorod62.ru,progorodnn.ru,progoroduhta.ru,prosaratov.ru,usolie.info,youtvnews.com##.notifycation_notifycation__BeRRP
 newskrasnodar.ru,pg11.ru,pg13.ru,vladivostoktimes.ru##.notifycation_notifycation__X6Fsx
+sberbank-insurance.ru##.ns-cookie
 kubnews.ru##.onetrust-banner
 onlinepbx.ru##.onlinepbx__cookie__modal
 otpbank.ru##.p-cookies-notification
@@ -2869,6 +2880,7 @@ kamkabel.ru##.panel_152_wp
 pegast.ru##.pgs-top
 v3.ketogo.app##.pipe-cookie-consent
 finuslugi.ru##.plate___P4Xog
+reg.ru##.policy-info
 b-kontur.ru,kontur.ru##.policy-notification
 delo-vcusa.ru,izpn.ru##.policy-popup
 netlab.ru##.policy-warning
@@ -2914,6 +2926,7 @@ cloud.ru##.styles_root__NF3YF
 66.ru,gorodvo.ru##.t-i-agree
 cinemamedley.ru,cloudtips.ru##.t657
 omnidesk.ru##.t886
+shop.tastycoffee.ru##.tc-cookies
 atlex.ru##.terms-popup
 credistory.ru##.toast-message
 vplaboratory.ru##.top-message
@@ -2975,7 +2988,9 @@ lenta.com##lu-cookie-agree
 mvideo.ru##mvid-cookie-notification
 postnauka.ru##notifications
 remontnik.ru##rtk-cookies-notice
+sberdevices.ru#?#div[data-testid="snackbar"]:has-text(cookie)
 kion.ru##ui-web-alert
+v1.yaoilib.net#?#.ey_ez:has-text(cookie)
 !
 ! ---------- Serbian ----------
 !
@@ -3542,6 +3557,7 @@ myorbit.id##[style="align-items: center; background-color: rgb(237, 245, 252); p
 !
 ! ---------- Vietnamese ----------
 !
+batdongsan.com.vn###dataProtectionPopupWrapper
 vdes.vn##.cookieBanner_show__1E8Dj
 ants.vn##.sg-popup-content
 fptshop.com.vn##[data-cookie-consent-modal="true"]

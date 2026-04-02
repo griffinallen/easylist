@@ -795,6 +795,7 @@ infoq.com##.header__bottom__events
 notesfrompoland.com##.heading-more
 xhaccess.com,xhamster.com,xhamster.desi##.heading-promo
 whyy.org##.hearken-embed
+euromaidanpress.com##.hide-ads-banner
 sfpublicpress.org##.hide-on-landing
 tipranks.com##.hideOnpremium
 48hills.org##.hills-inline-full-width
@@ -908,6 +909,7 @@ backpacker.com##.o-promo-module
 omgubuntu.co.uk##.omg-hero-button
 energypolicy.columbia.edu##.overall-notification
 edutopia.org##.overlay
+euromaidanpress.com##.overlay-bg
 opb.org##.overlay-cta
 app.slack.com##.p-upgrades_button
 civilbeat.org##.page-donate-footnote
@@ -991,6 +993,7 @@ damemagazine.com##.row_background_red_padding
 maginative.com##.sb-services
 biometricupdate.com##.sb_spotlight
 reneweconomy.com.au##.sc__container_outer
+indianexpress.com##.screen-banner-link
 slideshare.net##.scribd-ad-exit-modal
 golem.de##.sdgSlotContainer
 civileats.com##.section-banner
@@ -1362,6 +1365,7 @@ aberdeenlive.news,belfastlive.co.uk,birminghammail.co.uk,bristolpost.co.uk,busin
 dailymail.co.uk##.swipe-tutorial
 ddtonline.com,northsidesun.com##.swipe_arrows
 91mobiles.com,bohemian.com,cinelinx.com,emobilityplus.com,genengnews.com,geopoliticalfutures.com,itmunch.com,politik.co.nz,theaustraliatoday.com.au##.td-more-articles-box
+gsmarena.com##.toast-container
 twistedvoxel.com##.tt-shortcode-1
 yourstory.com##.unique-progress
 cheddar.com##.upnext-container
