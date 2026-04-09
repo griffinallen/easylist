@@ -894,6 +894,8 @@ cvimall.net##.chpFL
 qiuwenbaike.cn##.consent-notice
 crocs.com.hk##.cookie-accept-desktop
 ner.gov.tw##.cookie-agreement
+xiaohongshu.com##.cookie-banner
+xiaohongshu.com##.cookie-banner-overlay
 ctee.com.tw##.cookie-concent
 game.omg.com.tw##.cookie-confirm
 news.pts.org.tw##.cookie-flex
