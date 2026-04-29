@@ -17,6 +17,7 @@
 ||abstractedauthority.com^
 ||absurdapple.com^
 ||abundantcoin.com^
+||accountgram.com^
 ||accountsdoor.com^
 ||accurateanimal.com^
 ||accuratecoal.com^
@@ -27,6 +28,7 @@
 ||acridtwist.com^
 ||actuallysheep.com^
 ||actuallysnake.com^
+||acustomizedgift.com^$~xmlhttprequest
 ||adamantsnail.com^
 ||addictedattention.com^
 ||addressfriend.com^
@@ -71,6 +73,7 @@
 ||ambiguousincome.com^
 ||ambrosialsummit.com^
 ||amethystzenith.com^
+||amidsttruly.com^
 ||amuckafternoon.com^
 ||amusedbucket.com^
 ||amusementmorning.com^
@@ -111,6 +114,7 @@
 ||azuremystique.com^
 ||azurestealth.com^
 ||babyblissgifts.com^
+||backtension.com^
 ||backupcat.com^
 ||baconbags.com^
 ||badgeboat.com^
@@ -151,6 +155,7 @@
 ||bhcumsc.com^
 ||bidpapers.com^
 ||bigfishapparel.com^
+||biggerbling.com^
 ||bigworldfashion.com^
 ||bikepaws.com^
 ||bikesboard.com^
@@ -317,6 +322,7 @@
 ||childlikecrowd.com^
 ||childlikeexample.com^
 ||childlikeform.com^
+||chillingtofu.com^
 ||chingovernment.com^
 ||chipperisle.com^
 ||chivalrouscord.com^
@@ -333,7 +339,6 @@
 ||climbingright.com^
 ||cloisteredcurve.com^
 ||cloudchickens.com^
-||cloudguppy.com^
 ||cloudhustles.com^
 ||cloudjumbo.com^
 ||clumsycar.com^
@@ -579,6 +584,7 @@
 ||endurablebulb.com^
 ||energeticexample.com^
 ||energeticladybug.com^
+||energyfools.com^
 ||engineertrick.com^
 ||enigmaprint.com^
 ||enigmaticcanyon.com^
@@ -627,6 +633,7 @@
 ||fairytaleflame.com^
 ||faithrowold.com^
 ||fakedisguise.com^
+||fakeschool.com^
 ||fallaciousfifth.com^
 ||fallingshoals.com^
 ||falseframe.com^
@@ -656,6 +663,7 @@
 ||feeblestamp.com^
 ||feedandpurr.com^
 ||feedten.com^
+||feelwarmth.com^
 ||feignedfaucet.com^
 ||femalecook.com^
 ||fencesync.com^
@@ -770,6 +778,7 @@
 ||gianthypes.com^
 ||giantsvessel.com^
 ||giddycoat.com^
+||giftclothings.com^
 ||gigkarma.com^
 ||giraffepiano.com^
 ||gitcrumbs.com^
@@ -903,6 +912,7 @@
 ||hustlercoach.com^
 ||hybridburst.com^
 ||hydraconcept.com^
+||hypercarart.com^
 ||hyperlegend.com^
 ||hypnoticwound.com^
 ||hystericalcloth.com^
@@ -939,7 +949,8 @@
 ||internalcondition.com^
 ||internalsink.com^
 ||intricateberry.com^
-||inventorycache.com^
+||introjava.com^
+||inventorycache.com^$~xmlhttprequest
 ||inventtango.com^
 ||invoicetick.com^
 ||iotapool.com^
@@ -990,7 +1001,7 @@
 ||kernellife.com^
 ||kidpowers.com^
 ||kindasingle.com^
-||kindhush.com^
+||kindhush.com^$~xmlhttprequest
 ||kindlereunion.com^
 ||kitetuning.com^
 ||kittentacos.com^
@@ -1219,6 +1230,7 @@
 ||nightwound.com^
 ||nimbleplot.com^
 ||noblecables.com^
+||noblefellow.com^
 ||nodenotify.com^
 ||nodethisweek.com^
 ||noiselessplough.com^
@@ -1248,7 +1260,7 @@
 ||obscenesidewalk.com^
 ||obscurespace.com^
 ||obsidiangems.com^
-||oceancloudhosts.com^
+||oceancloudhosts.com^$~xmlhttprequest
 ||octaneblood.com^
 ||offerniche.com^
 ||offgridcrops.com^
@@ -1313,6 +1325,7 @@
 ||pastoralroad.com^
 ||pawsnug.com^
 ||peacefullimit.com^
+||pearpouch.com^
 ||pedropanther.com^
 ||peeringhost.net^
 ||pegsbuttons.com^
@@ -1995,6 +2008,7 @@
 ||touristfuel.com^
 ||toysbasics.com^
 ||toytakeover.com^
+||tracecontent.com^
 ||traderbyte.com^
 ||tradetooth.com^
 ||tranquilcan.com^
@@ -2148,8 +2162,10 @@
 ||wisedotcom.com^
 ||wispycity.com^
 ||wistfulwaste.com^
+||withsounds.com^
 ||wittypopcorn.com^
 ||wizardbuck.com^
+||wizardstrategy.com^
 ||wondermakings.com^
 ||wordchip.com^
 ||workhorsefunds.com^
@@ -2163,6 +2179,7 @@
 ||wretchedfloor.com^
 ||writerhubs.com^
 ||writewealth.com^
+||writingcalls.com^
 ||wrongpotato.com^
 ||wrongwound.com^
 ||wtaccesscontrol.com^

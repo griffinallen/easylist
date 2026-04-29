@@ -94,6 +94,7 @@
 ||amazon.com/1/events/$domain=~aws.amazon.com
 ||amazon.com/e/xsp/imp?
 ||amazon.com/empty.gif?$image
+||amboss.com/analytics/
 ||americanexpress.com/beacon
 ||amethyst.6pm.com^
 ||amethyst.zappos.com^
@@ -241,6 +242,7 @@
 ||barry-callebaut.com/pd.js
 ||bat.maydream.com^
 ||bats.video.yahoo.com^
+||bc.nejm.org/script.js
 ||bcbits.com/bundle/bundle/1/analytics-$domain=bandcamp.com
 ||bcbits.com/bundle/bundle/1/impl-$domain=bandcamp.com
 ||beacon.dropbox.com^
@@ -331,8 +333,10 @@
 ||cbc.ca/g/stats/
 ||cc.cc/visit_log_ajax/visit_log_save_ajax.php?
 ||cdapi.collegedunia.com^
+||cdn.eaec.fpfis.tech.ec.europa.eu^
 ||cdn.gov.cfigroup.com/webmon/s/source/webmon/$domain=weather.gov
 ||cdn.jsdelivr.net/npm/@adshield/
+||cdn.reverso.net/rumjs/
 ||cdp.vercel.com/rs/
 ||centerblog.net/stats.js
 ||cgtn.com/api/collect/
@@ -479,12 +483,14 @@
 ||data.allstate.com^
 ||data.barry-callebaut.com^
 ||data.cheatography.com/banana.js
+||data.debugbear.com^
 ||data.guide.photobucket.com^
 ||data.jerkmate.com^
 ||data.torry.io^
 ||data.ublock-browser.com^
 ||data.vevor.com^
 ||data.younow.com^
+||datadoghq.com/api/v2/rum
 ||datadoghq.com/assets/dd-browser-logs-rum.js
 ||datadome.maisonsdumonde.com^
 ||datafa.st/js/script.js
@@ -764,7 +770,6 @@
 ||geoip.ifunny.co^
 ||geolocation.forbes.com^
 ||getadblock.com/js/log.js
-||getpocket.com/web-utilities/public/static/te.js
 ||gettapeads.com/stat/
 ||gettyimages.*/pulse$ping
 ||gg.asuracomic.net/api/views/collect
@@ -882,6 +887,7 @@
 ||imdb.com/api/_ajax/metrics/
 ||imf.org/Assets/IMF/js/SocialScript.js
 ||img.konami.com/games/s/common/js/analytics.js
+||img.medscapestatic.com/pi/scripts/omniture/bi_medscape.js$domain=medscape.com
 ||imgur.com/albumview.gif?
 ||imgur.com/imageview.gif?
 ||immoweb.be/*/track/
@@ -975,6 +981,8 @@
 ||klm.us/CWZUvc/
 ||kloth.net/images/pixel.gif
 ||knewz.com/api/event
+||knowunity.com/events^
+||knowunity.com/pixels/
 ||kobo.com/TrackClicks
 ||kohls.com/mtFndb/
 ||kohls.com/test_rum_nv?
@@ -1062,6 +1070,7 @@
 ||mangadex.org/p.js
 ||mangakoma.net/ajax/manga/view
 ||manomano.*/api/v1/sp-tracking/
+||manscaped.com/rud-dataplane/
 ||manua.ls/g/collect?
 ||manua.ls/gtag
 ||mapcarta.com/logs
@@ -1103,6 +1112,7 @@
 ||metrics.audius.co^
 ||metrics.bangbros.com^
 ||metrics.camsoda.com^
+||metrics.documentfoundation.org^
 ||metrics.freemake.com^
 ||metrics.hackerrank.com^
 ||metrics.hyperliquid.xyz^
@@ -1155,6 +1165,7 @@
 ||mstm.motorsport.com^
 ||mtg.macpaw.com^
 ||mtm.bondagevalley.cc^
+||mtrics.cdc.gov^
 ||musescore.com/components/data?
 ||musescore.com/components/log/$ping
 ||musescore.com/score/stats/
@@ -1173,9 +1184,11 @@
 ||navan.com/api/analytics
 ||nbarizona.com/metrics/
 ||nbc.com/webevents/
+||ncregister.com/_swp_analytics?
 ||neatorama.com/story/view/
 ||neeva.com/logql/log
 ||neighbourly.co.nz/event-tracking
+||nekoweb.org/.nekoweb-api/count-view
 ||neowin.net/ws/$websocket
 ||net.haier.com^
 ||netflix.com/ichnaea/log
@@ -1232,6 +1245,7 @@
 ||ohm-dot-hackster-io.appspot.com^
 ||oklink.com/jsstat/
 ||okx.com/jsstat/sb?
+||onboarding-ui.frontiersin.org/api/onboarding-ui/v1/session/logged
 ||oneroof.co.nz/*/record-log/
 ||online-umwandeln.de/analytics.js
 ||online.marketing/a.js
@@ -1269,6 +1283,7 @@
 ||pappagallu.onefootball.com^
 ||pardot.com/pd.js
 ||partsgeek.com/sspgt/
+||patient.info/a31h/
 ||pay4fans.com/api/analytics
 ||paypal.com/credit-presentment/log
 ||paypal.com/platform/tealeaftarget
@@ -1331,6 +1346,7 @@
 ||plausible.tubemagic.com^
 ||player-cdn.com/cdn-cgi/trace
 ||player-telemetry.vimeo.com^
+||player.instaread.co/js/inarticle-metrics.js
 ||player.javboys.cam/cdn-cgi/trace
 ||playvideohd.com/cdn-cgi/trace
 ||plenty.vidio.com^
@@ -1359,6 +1375,7 @@
 ||prisma.io/gastats.js
 ||priv.gc.ca/m/m.js
 ||privacy-api.9gag.com^
+||privacy.reverso.net^
 ||privacyfriendly.netlify.app^
 ||privacypolicies.com/track/
 ||private.wccftech.com^
@@ -1429,6 +1446,7 @@
 ||rei.com/customer-analytics-attributes/
 ||reichelt.com/setsid.php?
 ||relay.fiverr.com^
+||remarkable.com/api/proxy/marker
 ||reports.tunein.com^
 ||researchgate.net/beacon/
 ||researchgate.net/track/
@@ -1443,6 +1461,7 @@
 ||risextube.com/t/
 ||rivcash.com/*/event/page_visit
 ||rivcash.com/ajax/log_js_error.php
+||roas-service.store-services-prod.remarkable.com^
 ||roblox.com/_/_/1px.gif
 ||roblox.com/report
 ||roblox.com/www/e.png?
@@ -1462,6 +1481,7 @@
 ||rta2.newzit.com^
 ||rtds.progressive.com^
 ||rum.api.intuit.com^
+||rum.battle.net^
 ||rum.cdnpure.com^
 ||rum.condenastdigital.com^
 ||rumble.com/l/
@@ -1542,12 +1562,13 @@
 ||slant.co/js/track.min.js
 ||slashdot.org/country.js
 ||slashdot.org/images/js.gif
+||slc.cbssports.com/events
 ||slickdeals.net/ajax/stats/
-||slideshare.net/frontend_tracking/
 ||slipstream.skyscanner.net^
 ||smartlink-api.amuse.io/api/analytics/
 ||smassets.net/assets/anonweb/anonweb-click-
 ||smetrics.couponcabin.com^
+||smetrics.inova.org^
 ||smetrics.ralphlauren.com^
 ||smetrics.vanguard.com^
 ||smutty.com/ajax/trcking/
@@ -1739,6 +1760,7 @@
 ||t3.chat/api/event
 ||t3.chat/js/xt/script.js
 ||t810.ctpost.com^
+||tagdelivery.mayoclinic.org^
 ||tagger.ope.scmp.com^
 ||tagging.steelseries.com^
 ||tags-event.woolworths.co.nz^
@@ -1790,6 +1812,7 @@
 ||terabox.app/issue/terabox/ts_ad/
 ||terabox.com/abdr?
 ||terabox.com/nodeapi/reporterror?
+||terminaltrove.com/_t/
 ||termsfeed.com/track/
 ||tgt.maep.ibm.com^
 ||theblock.co/api/analytics
@@ -1847,6 +1870,7 @@
 ||touch.myntra.com^
 ||toyota.com/analytics/
 ||tpcs.payu.in/pixelwithcookie.gif$domain=hindustantimes.com
+||tpead.net/stat/
 ||tr.api.fanbyte.com^
 ||tr.clickstay.com^
 ||tr.www.cloudflare.com^
@@ -1925,6 +1949,7 @@
 ||tumblr.com/services/bblog
 ||tunein.com/api/v1/log/
 ||turbobit.net/js/analytics/fdUserFingerprintToken.js
+||tweaktown.com/cms/mp3_track.php
 ||twitter.com/1.1/attribution
 ||twitter.com/1.1/jot
 ||twitter.com/9/measurement/
@@ -2023,6 +2048,7 @@
 ||wa.gmx.co.uk^
 ||wa.gymboree.com^
 ||wa.pjplace.com^
+||wa.slideshare.net^
 ||wa.sugarandjade.com^
 ||waaw.ac/cdn-cgi/trace
 ||waaw.to/cdn-cgi/trace
@@ -2038,8 +2064,10 @@
 ||wattpad.com/js/tracker/app.
 ||wc.yahoodns.net^$image
 ||wccftech.com/cnt7vfDVvWa3.js
+||wealthfront.com/cm/metrics
 ||wealthfront.com/event
 ||wealthfront.com/track_next?p=
+||wealthfront.com/userevents/
 ||web-perf.booking.com^
 ||web.analytics.metrobyt-mobile.com^
 ||web.snapchat.com/web-analytics-v2/web/events
