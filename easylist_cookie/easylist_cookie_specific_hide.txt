@@ -1804,7 +1804,7 @@ tresorit.com##.fg_n3
 lumendatabase.org,thebodyshop.com##.first-time-visitor
 ecmsglobal.com##.firstTimeTip
 thefurnshop.co.uk##.fixBar
-privacysavvy.com##.fixed
+carleton.ca,cashbackeasy.com,crazymaplestudios.com,key-drop.com,lovable.dev,newsbreak.com,poslovi.infostud.com,privacysavvy.com,salesmartly.com,salud-digna.org,winpesa.ke##.fixed
 namesilo.com##.fixed-footer
 mobileshop.eu##.fixed-warning
 tomtom.com##.fixed.bottom-24
