@@ -4051,6 +4051,7 @@ dejure.org###sp_message_container_1433550
 flirtify.com##._stickyRoot_19pj5_1
 cookieinformation.com##.coi-banner__page-footer
 dramaboxdb.com##.cookieConsent_overlay__dknIL
+megaxh.com##.cookiesAnnounce-30a9a
 cleartrip.com##.flex
 drpc.org##.mantine-1flya5k
 kcrw.com##.paragraph
