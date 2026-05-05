@@ -4049,6 +4049,7 @@ livejasmin.com###consent_modal
 o2.co.uk###gcookiegprompt
 birgun.net###getpermission
 jobtoday.com###headlessui-portal-root
+pushwoosh.com###pw-consent-root
 dejure.org###sp_message_container_1433550
 flirtify.com##._stickyRoot_19pj5_1
 pngtree.com##._zzqtmz
