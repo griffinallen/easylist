@@ -4045,6 +4045,7 @@ globalblue.com##.gbnew-cookie-bar
 !#include easylist_cookie_specific_uBO.txt
 algolia.com###agentforce-bubble
 livejasmin.com###consent_modal
+o2.co.uk###gcookiegprompt
 birgun.net###getpermission
 jobtoday.com###headlessui-portal-root
 dejure.org###sp_message_container_1433550
