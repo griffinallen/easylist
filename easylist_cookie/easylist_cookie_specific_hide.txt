@@ -4055,6 +4055,7 @@ megaxh.com##.cookiesAnnounce-30a9a
 cleartrip.com##.flex
 meituan.com##.m
 drpc.org##.mantine-1flya5k
+member.uhc.com##.notice-module__3O6WBq__noticeWrapper
 kcrw.com##.paragraph
 gamesnacks.com##.uW2Fw-Sx9Kwc
 de.pinterest.com,es.pinterest.com,fr.pinterest.com,it.pinterest.com,uk.pinterest.com##.unzjra
