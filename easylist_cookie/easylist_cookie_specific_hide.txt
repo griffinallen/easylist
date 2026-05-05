@@ -4050,6 +4050,7 @@ o2.co.uk###gcookiegprompt
 birgun.net###getpermission
 jobtoday.com###headlessui-portal-root
 pushwoosh.com###pw-consent-root
+y8.com###sp_message_container_1365360
 dejure.org###sp_message_container_1433550
 router-network.com###sp_message_container_1446869
 uhc.com###uhc-privacy-banner
