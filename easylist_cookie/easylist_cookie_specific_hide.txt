@@ -4047,5 +4047,6 @@ algolia.com###agentforce-bubble
 birgun.net###getpermission
 dejure.org###sp_message_container_1433550
 cookieinformation.com##.coi-banner__page-footer
+dramaboxdb.com##.cookieConsent_overlay__dknIL
 cleartrip.com##.flex
 de.pinterest.com,es.pinterest.com,fr.pinterest.com,it.pinterest.com,uk.pinterest.com##.unzjra
