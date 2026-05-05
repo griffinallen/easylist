@@ -4044,3 +4044,4 @@ globalblue.com##.gbnew-cookie-bar
 ! Include ubO specific
 !#include easylist_cookie_specific_uBO.txt
 algolia.com###agentforce-bubble
+birgun.net###getpermission
