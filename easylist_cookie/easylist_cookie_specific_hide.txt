@@ -4052,5 +4052,6 @@ cookieinformation.com##.coi-banner__page-footer
 dramaboxdb.com##.cookieConsent_overlay__dknIL
 cleartrip.com##.flex
 drpc.org##.mantine-1flya5k
+kcrw.com##.paragraph
 gamesnacks.com##.uW2Fw-Sx9Kwc
 de.pinterest.com,es.pinterest.com,fr.pinterest.com,it.pinterest.com,uk.pinterest.com##.unzjra
