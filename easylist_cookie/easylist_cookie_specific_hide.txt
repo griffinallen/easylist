@@ -4058,6 +4058,7 @@ dramaboxdb.com##.cookieConsent_overlay__dknIL
 megaxh.com##.cookiesAnnounce-30a9a
 nodereal.io##.css-1maxy0a
 cleartrip.com##.flex
+remitly.com##.frxs393
 meituan.com##.m
 drpc.org##.mantine-1flya5k
 member.uhc.com##.notice-module__3O6WBq__noticeWrapper
