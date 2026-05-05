@@ -1773,6 +1773,7 @@ bakecaincontrii.com##.alert-secondary
 vocetempo.it##.animate__animated.animate__slideInUp
 almaviva.it##.background-popup
 papersera.net##.black_overlay
+ire.com.ua,unifi.it##.block
 calcolostipendio.it##.bold_text
 bose.it##.bose-infoBar2016--fixedBottom
 bakecaincontrii.com##.bottom-fixed
