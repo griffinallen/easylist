@@ -3323,6 +3323,7 @@ iryo.eu##wc-cookies-manager
 !
 !----------- Macedonian -----------
 !
+edreams.es##.didomi-host
 brazino777.mx##.info-popup
 loging.mk##.showBackdrop
 loging.mk##.showConsent
