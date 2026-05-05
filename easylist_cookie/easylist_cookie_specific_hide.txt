@@ -4047,3 +4047,4 @@ algolia.com###agentforce-bubble
 birgun.net###getpermission
 cookieinformation.com##.coi-banner__page-footer
 cleartrip.com##.flex
+de.pinterest.com,es.pinterest.com,fr.pinterest.com,it.pinterest.com,uk.pinterest.com##.unzjra
