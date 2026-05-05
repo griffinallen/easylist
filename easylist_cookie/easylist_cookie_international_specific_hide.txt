@@ -3509,6 +3509,7 @@ blablacar.com.tr##.eejIlc.sc-mqugsu-0
 fibabanka.com.tr##.efilli-layout-fibabanka
 getir.com##.faOyhg
 yucebasmakine.com.tr##.fadeInUp
+aa.com.tr,carleton.ca,cashbackeasy.com,crazymaplestudios.com,f12.bet.br,key-drop.com,lovable.dev,newsbreak.com,poslovi.infostud.com,salesmartly.com,salud-digna.org,winpesa.ke##.fixed
 gezinomi.com##.fixedprotectionOfData
 kampanya.peugeot.com.tr##.ihm-popup
 kampanya.peugeot.com.tr##.ihm-popup-overlay
