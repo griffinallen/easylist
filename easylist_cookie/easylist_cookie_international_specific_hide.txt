@@ -3337,6 +3337,7 @@ iryo.eu##wc-cookies-manager
 !
 edreams.es##.didomi-host
 brazino777.mx##.info-popup
+m.shein.com.mx##.popup-dialog
 loging.mk##.showBackdrop
 loging.mk##.showConsent
 !
