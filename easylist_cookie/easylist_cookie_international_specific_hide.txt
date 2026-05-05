@@ -1745,6 +1745,7 @@ coccinella.bz.it###privacy-win
 cinquantamila.it###privacy_advisor
 faxiflora.it###privacydiv
 hotelmarini.it###pscookielaw
+ilgiornale.it###qc-cmp2-container
 rds.it###rds-cookie-preferences
 samaritansonlus.org###sB_injected
 netbet.it###sec-banner-div
