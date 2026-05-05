@@ -395,6 +395,7 @@ topfit-badgriesbach.de##.gatewayBar
 delano.de##.gatewayContainer
 delano.de##.gatewayWindowShade
 as-bremen.de,channel21.de##.gedepiar-info
+united-domains.de##.gen-layer
 hygienical.de##.gewerbe-info
 deutschlandticket.de##.ghoviH
 siegelklarheit.de##.glasspane
@@ -1322,6 +1323,7 @@ visaquarium.nl##.tb
 eredivisie.eu,eredivisie.nl,kncb.nl,nevobo.nl,volleybal.nl##.tdecc
 camperclubskeller.nl##.total-plus-privacy-policy
 nrc.nl##.user-confirmation-screen
+utwente.nl##.utwente-cookiedialog
 folders.nl##.v-bottom-sheet
 bolderman.nl,effeweg.nl##.via-modal--consent
 easyschrank.ch##.visio-analytics-cookie-notice
@@ -1381,6 +1383,7 @@ br-automation.com###siwa-cookiebar
 iltalehti.fi###sp_message_container_1388007
 hs.fi###sp_message_container_1471934
 is.fi###sp_message_container_1471937
+vauva.fi###sp_message_container_1471976
 print24.com##.ModalSubModule_overlay__qg9IL
 lehtodigital.fi##.__ld_cookies
 hk.fi##.animate.mask
