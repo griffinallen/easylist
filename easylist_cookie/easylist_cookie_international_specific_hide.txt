@@ -200,6 +200,7 @@ servicebund.de###social-opt-in
 mydealz.de,preisjaeger.at###softMessages-list
 soldesign.de###solbox
 auto-motor-und-sport.de###sp_message_container_1401567
+freundin.de###sp_message_container_1403499
 jetztlive.com###splash-consent
 urteile-gesetze.de###stickyFooter
 soeren-hentzschel.at###storage-notice
