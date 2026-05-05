@@ -4046,6 +4046,7 @@ globalblue.com##.gbnew-cookie-bar
 algolia.com###agentforce-bubble
 birgun.net###getpermission
 dejure.org###sp_message_container_1433550
+flirtify.com##._stickyRoot_19pj5_1
 cookieinformation.com##.coi-banner__page-footer
 dramaboxdb.com##.cookieConsent_overlay__dknIL
 cleartrip.com##.flex
