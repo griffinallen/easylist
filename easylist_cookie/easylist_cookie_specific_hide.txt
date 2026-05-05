@@ -4043,6 +4043,7 @@ tiktok.com##tiktok-cookie-banner
 globalblue.com##.gbnew-cookie-bar
 ! Include ubO specific
 !#include easylist_cookie_specific_uBO.txt
+primicias.ec###__cookie_banner_wrapper
 algolia.com###agentforce-bubble
 livejasmin.com###consent_modal
 o2.co.uk###gcookiegprompt
