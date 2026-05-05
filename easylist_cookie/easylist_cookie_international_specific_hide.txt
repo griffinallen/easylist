@@ -791,6 +791,7 @@ francetravail.fr,francetravail.org##pe-cookies
 boutique-box-internet.fr,fournisseur-energie.com##ppn-cookie
 ! Site Specific filters (used with $generichide)
 onvasortir.com###infocookies
+inrae.fr###inrae-rgpd
 etudiant.gouv.fr###tarteaucitronAlertBig
 !
 ! ---------- Arabic ----------
