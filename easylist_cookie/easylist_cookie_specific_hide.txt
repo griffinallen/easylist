@@ -4050,6 +4050,7 @@ birgun.net###getpermission
 jobtoday.com###headlessui-portal-root
 dejure.org###sp_message_container_1433550
 flirtify.com##._stickyRoot_19pj5_1
+pngtree.com##._zzqtmz
 cookieinformation.com##.coi-banner__page-footer
 dramaboxdb.com##.cookieConsent_overlay__dknIL
 megaxh.com##.cookiesAnnounce-30a9a
