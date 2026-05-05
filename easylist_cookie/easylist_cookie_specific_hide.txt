@@ -4045,6 +4045,7 @@ globalblue.com##.gbnew-cookie-bar
 !#include easylist_cookie_specific_uBO.txt
 algolia.com###agentforce-bubble
 birgun.net###getpermission
+jobtoday.com###headlessui-portal-root
 dejure.org###sp_message_container_1433550
 flirtify.com##._stickyRoot_19pj5_1
 cookieinformation.com##.coi-banner__page-footer
