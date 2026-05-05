@@ -4066,6 +4066,7 @@ meituan.com##.m
 drpc.org##.mantine-1flya5k
 member.uhc.com##.notice-module__3O6WBq__noticeWrapper
 kcrw.com##.paragraph
+smartfren.com##.style_floatingWrapper__4W9Me
 nownodes.io##.styles_container__7QZe_
 gamesnacks.com##.uW2Fw-Sx9Kwc
 de.pinterest.com,es.pinterest.com,fr.pinterest.com,it.pinterest.com,uk.pinterest.com##.unzjra
