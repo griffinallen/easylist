@@ -4052,6 +4052,7 @@ jobtoday.com###headlessui-portal-root
 pushwoosh.com###pw-consent-root
 dejure.org###sp_message_container_1433550
 router-network.com###sp_message_container_1446869
+uhc.com###uhc-privacy-banner
 sharesight.com##.Containerstyled__BannerContainer-sc-81im4f-0
 sodimac.com.pe##.Footer-module_footer-bottom__tP8X-
 flirtify.com##._stickyRoot_19pj5_1
