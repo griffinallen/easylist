@@ -4045,4 +4045,5 @@ globalblue.com##.gbnew-cookie-bar
 !#include easylist_cookie_specific_uBO.txt
 algolia.com###agentforce-bubble
 birgun.net###getpermission
+cookieinformation.com##.coi-banner__page-footer
 cleartrip.com##.flex
