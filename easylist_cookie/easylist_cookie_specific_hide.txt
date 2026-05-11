@@ -4052,4 +4052,5 @@ globalblue.com##.gbnew-cookie-bar
 ! Include ubO specific
 !#include easylist_cookie_specific_uBO.txt
 etermin.net###divCookieDlg
+gumtree.com###vxxhmpejheipcj3gfjrcsipfcpjrcfr0t
 aprilsuperflo.com##.conteneurCookie
