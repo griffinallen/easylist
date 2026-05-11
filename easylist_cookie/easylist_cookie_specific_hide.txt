@@ -4054,3 +4054,4 @@ globalblue.com##.gbnew-cookie-bar
 etermin.net###divCookieDlg
 gumtree.com###vxxhmpejheipcj3gfjrcsipfcpjrcfr0t
 aprilsuperflo.com##.conteneurCookie
+lutondart.com,wakefieldcanada.ca,zrzutka.pl##.fade
