@@ -1168,7 +1168,7 @@ journiapp.com##.base-modal
 virgintvgo.virginmedia.com##.base-notification
 figma.com##.base_cookie_banner--container--nUKFl
 enen.eu##.basel-cookies-popup
-prestamarketing.com##.basicLightbox
+corido.co.uk,prestamarketing.com##.basicLightbox
 batchgeo.com##.batchgeo-cookie-notice
 bbc.com##.bbc-bmxm2b
 opentip.kaspersky.com##.bd80ac
