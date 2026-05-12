@@ -1722,6 +1722,7 @@ zacks.com##.disclosure-fixed-slab
 biblestudytools.com##.disclosure-modal-div
 codes.co.uk##.discreet-alert
 zuerichmarathon.ch##.div-block-165
+etermin.net##.divCookies
 transamerica.com##.dmb-notifications-ajax-wrapper
 siliconesandmore.com##.dmws-f-popup-wrap
 bbc.com##.domestic-header-wrapper
