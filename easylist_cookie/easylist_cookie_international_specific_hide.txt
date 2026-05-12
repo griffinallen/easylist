@@ -3328,6 +3328,7 @@ iryo.eu##wc-cookies-manager
 !
 !----------- Macedonian -----------
 !
+volkswagen-commercial-vehicles.be,volkswagen.be,vw.com.mx,vwgroup.se###cookiemgmt
 porvenir.com.co##.journal-content-article
 loging.mk##.showBackdrop
 loging.mk##.showConsent
