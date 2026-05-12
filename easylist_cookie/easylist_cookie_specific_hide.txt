@@ -2116,6 +2116,7 @@ coscoshipping.com##.local-cookie-policy-container
 isolarcloud.com##.login-cookie-tips
 sig-global.co.uk##.login-wrapper
 math.lsu.edu##.lsuccoverlay
+meituan.com##.m
 office.com##.m-alert
 skyperfectjsat.space##.m-box-policy
 visitwales.com##.m-noticeBar
