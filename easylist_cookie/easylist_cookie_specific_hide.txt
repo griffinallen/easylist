@@ -1930,6 +1930,7 @@ milwaukeecylinder.com##.guTily
 bordersdown.net##.guestwarn
 guggenheim.org##.guggen-consent
 ada.com##.gyhOpk
+salesmartly.com##.h-auto
 hostinger.com##.h-cookie-consent-wrapper
 yourstory.com##.hAPLOA
 bazarchic.com##.hCTOEm
