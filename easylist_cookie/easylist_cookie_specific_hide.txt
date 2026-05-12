@@ -2297,6 +2297,7 @@ southalltravel.co.uk##.overlayer-gogoleconsent
 noahcompendium.co.uk##.overlays
 endclothing.com##.owra-d
 esignal.com##.p-0.overflow-auto.flex-col
+carleton.ca##.p-6
 thekey.academy##.p-dialog-enter-done
 osf.io##.p-message-content
 youronlinechoices.com##.p15
