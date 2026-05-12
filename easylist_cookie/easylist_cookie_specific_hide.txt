@@ -1858,6 +1858,7 @@ ulefone.com##.footermsg
 msn.com##.fpCdm
 bird.com##.framer-1zan27-container
 octopusev.com##.frubGX
+remitly.com##.frxs393
 f-secure.com##.fs-consent
 11miami.com,americanwildhorse.org,antenna.live,boltpharmacy.co.uk,fellahealth.co.uk,finsweet.com,min.io,newscatcherapi.com,originality.ai##.fs-consent_banner
 biorio.se,brainhub.eu,meridial.ai,min.io,reo.dev,whaletv.com##.fs-consent_component
