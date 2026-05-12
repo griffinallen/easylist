@@ -2390,6 +2390,7 @@ macron.com##.pr-cookie-notice-wrap
 powerreviews.com##.prd-wrap
 ultimaker.com##.preferences-bar
 alhambrafabrics.com##.preview-cookies-alert
+aprilsuperflo.com##.principal
 easyeda.com##.priv-tips
 ambassador-enterprises.com,aweray.com,cbc.ca,dailyselect.co.uk,febrasgo.org.br,ferrerocareers.com,focustaiwan.tw,habitatgfw.com,lcsc.com,ridegoshare.com,trashbox.ru##.privacy
 shoppersdrugmart.ca##.privacy-agreement
