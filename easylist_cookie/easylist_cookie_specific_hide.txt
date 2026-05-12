@@ -2530,6 +2530,7 @@ coderland.com##.shadow-cookiesbanner
 liveblocks.io##.shadow-marketing-elevation-popover
 xcite.com.sa##.shadow-sm.bg-white
 volumo.com##.shared_container__OZnf_
+lutondart.com,wakefieldcanada.ca##.show
 central1.com##.show-cookie-div
 ademus.eu,callingfans.com,creators.deepfake.com,nappy.co##.showBanner
 nikkei.com##.show_s1oy9cxe
