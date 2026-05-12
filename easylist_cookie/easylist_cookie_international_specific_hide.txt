@@ -3324,6 +3324,7 @@ iryo.eu##wc-cookies-manager
 !
 !----------- Macedonian -----------
 !
+porvenir.com.co##.journal-content-article
 loging.mk##.showBackdrop
 loging.mk##.showConsent
 !
