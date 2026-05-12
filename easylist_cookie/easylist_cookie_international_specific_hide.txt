@@ -200,6 +200,7 @@ sightseeing-kontor.de###sk-info
 servicebund.de###social-opt-in
 mydealz.de,preisjaeger.at###softMessages-list
 soldesign.de###solbox
+manager-magazin.de###sp_message_container_1426766
 ligainsider.de###sp_message_container_1467400
 jetztlive.com###splash-consent
 urteile-gesetze.de###stickyFooter
