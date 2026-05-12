@@ -2691,6 +2691,7 @@ etletstalk.com##.ulp-overlay
 etletstalk.com##.ulp-window-top-center
 ultimaker.com##.um-consent-bar
 tcm.com##.universal-footer__ribbon
+it.pinterest.com##.unzjra
 awareproductions.com##.up
 thegrove.co.uk##.upcc-floating-notice
 anisearch.com##.urgent-msg
