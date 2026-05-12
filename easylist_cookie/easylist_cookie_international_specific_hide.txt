@@ -3332,6 +3332,7 @@ iryo.eu##wc-cookies-manager
 !
 !----------- Macedonian -----------
 !
+no.co##.fixed
 loging.mk##.showBackdrop
 loging.mk##.showConsent
 !
