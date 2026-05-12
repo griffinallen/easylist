@@ -3324,6 +3324,7 @@ iryo.eu##wc-cookies-manager
 !
 !----------- Macedonian -----------
 !
+avixo.co,kaskus.co.id,salud-digna.org##.left-0
 loging.mk##.showBackdrop
 loging.mk##.showConsent
 !
