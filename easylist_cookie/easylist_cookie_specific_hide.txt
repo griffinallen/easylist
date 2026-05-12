@@ -220,6 +220,7 @@ mandisremotes.com###consentPopup
 mandisremotes.com###consentPopupBg
 pendleton-usa.com###consentTracking
 wedely.com###consent_cont
+livejasmin.com###consent_modal
 pkgs.org###consent_notice
 mtlfab.com,sporx.com###consentdiv
 hampel-auctions.com###consentmanager
