@@ -2587,6 +2587,7 @@ stwater.co.uk##.stw-alert
 pyrus.com##.style_cookie__2Jy7r
 simpleswap.io##.styles_card__6n7j6
 filmelier.com##.styles_container-lgpd__EXxgA
+nownodes.io##.styles_container__7QZe_
 aave.com##.styles_container__Ed7_3
 hyperact.co.uk##.styles_cookie-banner__EOJhb
 chumbacasino.com##.styles_cookieContainer__jdEqr
