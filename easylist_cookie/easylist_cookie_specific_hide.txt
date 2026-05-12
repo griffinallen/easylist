@@ -367,6 +367,7 @@ thewaltdisneycompany.com###disney-tou
 belfastmet.ac.uk###div-alerts-wrapper
 atlasformen.co.uk###divBottomStickyLayer
 newser.com###divCM
+etermin.net###divCookieDlg
 goccl.co.uk###divMessage
 microsoft.com###divNRMain
 ghost-hood.com###divNotificationSection
