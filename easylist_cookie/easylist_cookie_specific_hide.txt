@@ -1029,6 +1029,7 @@ lgensol.com##.__notice--sticky-bottom
 wolframalpha.com##._a_yb
 medicinechest.co.uk##._aju
 band.us##._bandCookieAgreementLayer
+flirtify.com##._card_1e7ad_1
 app.heygen.com##._contain_1b2mk_1
 incogni.com##._cookie-consent_tpc72_1
 omegawatches.com##._cookie-modal
