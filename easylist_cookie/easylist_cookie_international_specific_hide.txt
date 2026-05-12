@@ -3330,6 +3330,7 @@ iryo.eu##wc-cookies-manager
 !
 !----------- Macedonian -----------
 !
+porvenir.com.co##.journal-content-article
 avixo.co##.left-0
 loging.mk##.showBackdrop
 loging.mk##.showConsent
