@@ -2276,6 +2276,7 @@ st.pl##.jq-cookies
 ncplusgo.pl##.js-messages
 bhp-inka.pl##.js-modal-cookies
 funclub.pl##.jss359
+portalpasazera.pl##.k-window--with-footer
 praca.gov.pl##.klauzula-background-wyszarzony
 raportdekra.pl##.landend-infobar-light
 mediaexpert.pl##.layout > .wrapper
