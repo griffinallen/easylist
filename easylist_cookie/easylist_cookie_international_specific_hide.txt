@@ -1465,6 +1465,7 @@ dimotisnews.gr##.cc_obx
 welcomestores.gr##.consent-sticky-bar
 electroholic.gr##.fix-bottom
 neurocenter.gr##.gdprpop
+in.gr,tanea.gr,tovima.gr##.googlefc
 dustandcream.gr##.modals-wrapper
 lazoptics.gr##.new-cookie-supercontainer
 ntng.gr##.prvmodal
