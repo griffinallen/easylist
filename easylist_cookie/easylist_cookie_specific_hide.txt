@@ -2583,6 +2583,7 @@ airandspaceforces.com##.sticky-slot-element
 daft.ie##.strapline-container
 stwater.co.uk##.stw-alert
 pyrus.com##.style_cookie__2Jy7r
+smartfren.com##.style_floatingWrapper__4W9Me
 simpleswap.io##.styles_card__6n7j6
 filmelier.com##.styles_container-lgpd__EXxgA
 aave.com##.styles_container__Ed7_3
