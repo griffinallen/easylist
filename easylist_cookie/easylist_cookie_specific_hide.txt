@@ -2126,6 +2126,7 @@ magicplan.app##.magicplan-cookie-banner
 account.mailpoet.com##.mailpoet-privacy-banner
 gear.cdprojektred.com##.main-cookies-1M-
 optica.org##.maintenance-popup
+drpc.org##.mantine-1flya5k
 drpc.org##.mantine-7726ys
 adbypass.org,bypass.city##.mantine-Dialog-root
 irishstar.com##.marketing-opt-in-enabled
