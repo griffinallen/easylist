@@ -3519,6 +3519,7 @@ yucebasmakine.com.tr##.fadeInUp
 gezinomi.com##.fixedprotectionOfData
 kampanya.peugeot.com.tr##.ihm-popup
 kampanya.peugeot.com.tr##.ihm-popup-overlay
+aa.com.tr,key-drop.com##.inset-x-0
 yigitalisveris.com.tr##.kvk-information-master
 suslusozluk.com##.modal-show
 boxofficeturkiye.com##.notification__wrapper
