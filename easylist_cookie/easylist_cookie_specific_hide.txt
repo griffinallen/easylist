@@ -761,6 +761,7 @@ streamify.io###streamify-gdpr
 deboulle.com###tarteaucitronAlertBig
 tatsubuilder.com###tatsu-header-container
 buccellati.com###tc-privacy-wrapper
+winpesa.ke###teleports
 kaec.net,thelawpages.com###terms
 cars.co.za###terms-and-conditions
 comexlive.org,dowfutures.org,liveindex.org,sgxnifty.org###terms-bar
