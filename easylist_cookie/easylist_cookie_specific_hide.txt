@@ -1826,6 +1826,7 @@ squareup.com##.flash-bottom
 adrianaallen.com##.flash-fixed-bottom
 change.org##.flash-message-announcement
 dws.com##.flash-message__wrapper
+cashbackeasy.com,cleartrip.com##.flex
 kicker.com##.flex-container
 babes.com,bangbros.com,bangbrosnetwork.com,brazzers.com,brazzersnetwork.com,deviante.com,digitalplayground.com,digitalplaygroundnetwork.com,fakehub.com,letsdoeit.com,men.com,mofos.com,realitydudes.com,realitykings.com,seancody.com,sexyhub.com,spicevids.com,trueamateurs.com,tube8vip.com,twistys.com##.flex.md\:justify-between.flex-col.md\:flex-row.p-2.rounded-sm.border
 wiki.bedrock.dev##.float
