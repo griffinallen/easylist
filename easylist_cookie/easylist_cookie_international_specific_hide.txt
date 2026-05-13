@@ -1108,6 +1108,7 @@ bild-online.dk###fixedDiv2
 bygningskultur2015.dk,udlodningsmidler.dk###lbmodal
 udlodningsmidler.dk###lbmodal-overlay
 mybanker.dk###mybanker-cookie-consent
+dba.dk###sp_message_container_1386449
 royaldanishacademy.com##.b14cc
 autohjornet.com##.backgroundCoverWrapper_caw
 sygeforsikring.dk##.bg-sd-blue-secondary
