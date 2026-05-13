@@ -1532,6 +1532,7 @@ bigfishgames.com##.cookieConsentBanner-root-1Ic
 allcleartravel.co.uk##.cookieConsentContainer
 bikesales.com.au##.cookieConsentRoot
 dpdiva.com##.cookieConsentWindow
+dramaboxdb.com##.cookieConsent_overlay__dknIL
 premid.app##.cookieControl
 hockeycanada.ca##.cookieInfo
 lunajets.com##.cookieLayer_root__2RmDg
