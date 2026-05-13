@@ -425,6 +425,7 @@ shbarcelona.com###full_screen_div_cookies_layer
 musicmap.info###fullscreen-overlay
 carmignac.com###gatekeeper-modal
 play.google.com###gb > div[style*="background-color"]
+o2.co.uk###gcookiegprompt
 careers.lilly.com,dell.com,itnews.com.au,jibtv.com,vandyke.com###gdpr-alert
 aza.org###gdpr-bar
 sharefaith.com###gdpr-bot
