@@ -504,6 +504,7 @@ adultswim.com###legal-notification
 escapefromtarkov.com###legalLightBlock
 tmz.com###legalbar
 air-austral.com###legalconcerns
+sistemasca.com###lgpd_upd
 ticketpros.co.za###list-builder
 techpost.online###lixXO-cookies
 wittur.com###loggedbar
