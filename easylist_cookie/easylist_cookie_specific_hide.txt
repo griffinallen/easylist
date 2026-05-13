@@ -1373,6 +1373,7 @@ candyoffers.com##.co-cookie-message
 canvasondemand.com##.cod-notifications
 coe.int##.coe-cookies-consent-popup
 baskbank.com##.coh-ce-cpt_cookie_consent-d004124e
+cookieinformation.com##.coi-banner__page-footer
 bocchibagno.com##.cokies
 themillionroses.com##.cokkie-banner
 scnat.ch##.command-bar
