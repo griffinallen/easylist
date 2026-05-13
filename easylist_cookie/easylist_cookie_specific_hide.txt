@@ -1652,6 +1652,7 @@ bbb.org##.css-1kzsvch.e5ukq110
 balthasarspeyr.org##.css-1lhf63g
 quillbot.com##.css-1lxznmp
 carawayhome.com##.css-1m7ve5s
+nodereal.io##.css-1maxy0a
 byfood.com##.css-1p1652i
 streamelements.com##.css-1tg1tld
 mubi.com##.css-1usnlyf
