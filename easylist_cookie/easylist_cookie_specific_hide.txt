@@ -2230,6 +2230,7 @@ blogfree.net##.note
 anime2enjoy.com##.notice-board
 naturesgold.ie,rockandsnow.com##.notice-item-success
 dreamworks.com##.notice-modal
+member.uhc.com##.notice-module__3O6WBq__noticeWrapper
 icydock.com##.notice-section
 carlsjr.com,hardees.com##.notice-window
 windowsbbs.com##.notice_-1
