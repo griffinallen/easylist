@@ -2315,6 +2315,7 @@ fundedbyme.com##.pageNotification
 schrack-seconet.com##.pageOverlay
 ticketmaster.ca##.page__legal-link
 tickets.siampark.net##.panel_cookies
+kcrw.com##.paragraph
 bgci.org##.pastry
 maximapaints.com##.pb-sm.container
 ancientegyptmagazine.com,minervamagazine.com##.pcb
