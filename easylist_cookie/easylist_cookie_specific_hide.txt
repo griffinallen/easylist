@@ -1604,6 +1604,7 @@ athome.com##.cookies-toast
 2ocr.com##.cookies-toolbar
 freesmsgateway.com,germanospalhasitalianas.com.br,ucoin.net##.cookies-warning
 lumia.security##.cookies-wrapper-new
+megaxh.com,vi.xhname.com,vi.xhwebsite.com,xhname.com,xhonline.blog,xhwebsite.com##.cookiesAnnounce-30a9a
 n-ix.com##.cookiesBlock
 aidude.info##.cookiesConsent__wrapper
 vertiv.com##.cookiesOptInBanner
