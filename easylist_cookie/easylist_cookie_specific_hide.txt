@@ -911,6 +911,7 @@ navafresh.com##.FeatureBar_root___INU8
 anker.com##.FeatureBar_root__gYqi1.transform.translate-y-0.opacity-100
 talixo.com##.FloatingBoxesContainerBottom
 2021.rca.ac.uk##.Footer-module--consent--a50e2
+sodimac.com.pe##.Footer-module_footer-bottom__tP8X-
 blonded.co##.FooterNotice
 kyivindependent.com##.Footer_cookies__3_gEh
 debenhams.com##.FqVeA
