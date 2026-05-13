@@ -1044,6 +1044,7 @@ abplive.com##._p_policy
 luisaviaroma.com##._vgSl0cx4ao
 filerox.com##._wqnvxhk
 crossfit.com##._wrapper_1u43b_17
+pngtree.com##._zzqtmz
 advertising.amazon.com##.a20m-cookie-consent-banner
 cloudup.com##.a8c-cookie-banner
 opus.pro##.a_cookie-and-conversion-banner_component
