@@ -745,6 +745,7 @@ wasserklinik.com###snppopup-welcome
 hotukdeals.com###softMessages-list
 eumostwanted.eu###sortingPreference
 sotio.com###sotio-super-cookie
+y8.com###sp_message_container_1365360
 m.emsc.eu###splashscreen
 thoughttechnology.com###spopupCont
 killstar.com###static-cookie-bar
