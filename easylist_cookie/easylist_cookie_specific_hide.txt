@@ -934,6 +934,7 @@ bestprice.com##.ModalCookiesFooter_modalContainer__dkq2S
 zinio.com##.ModalDialogContainer-id_1gszkt1
 tunnelmb.net##.MqsPw
 fwg-vg-linz.de##.Mrku11502
+playerok.com##.MuiBox-root
 account.samsung.com##.MuiDrawer-modal
 bbb.org##.MuiDrawer-root
 tvtv.us##.MuiPaper-elevation6[role="alert"]
