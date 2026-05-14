@@ -1710,6 +1710,7 @@ glamourdresser.com,lightlife.com,liquid.tech,segpay.com##.dialog-message
 arnoldsche.com,blocksite.co,freeman.com,poperblocker.com,visitzagrebcounty.hr##.dialog-widget-content
 adesfoods.co.uk##.dialogBody
 designmodo.com##.dialogContainer
+clubic.com##.didomi-host
 atombank.co.uk##.dieHVN
 capture.dropbox.com##.dig-Snackbar[role="alert"]
 lovehoney.co.uk,lovehoney.com.au##.dis_message
