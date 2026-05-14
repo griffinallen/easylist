@@ -72,6 +72,7 @@ jobisjob.co.uk###adevinta_consents_cookies_universal_widget
 vapostore.com###adns_cookies_container
 javlibrary.com###adultwarningmask
 aecom.com###aecomCookieNotificationBar
+algolia.com###agentforce-bubble
 spbtv.online###agreeC
 basecamelectronics.com###agreement-alert
 bracketfights.com,tiermaker.com###agreementMessage
