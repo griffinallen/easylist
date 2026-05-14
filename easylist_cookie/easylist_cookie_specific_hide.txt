@@ -1184,6 +1184,7 @@ neofinancial.com##.bg-backgroundStrong
 ulster.rugby##.bg-black
 789ten.com##.bg-black-deep.rounded-md
 wimhofmethod.com##.bg-blue-r1
+lovable.dev##.bg-card
 linkedin.com##.bg-color-background-container-tint.top-2
 sifted.eu##.bg-darkGray
 cambridge.org,caymanchem.com##.bg-darker-gray
