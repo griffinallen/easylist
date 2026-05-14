@@ -2668,6 +2668,7 @@ fabasoft.com##.tracking-alert
 didriksons.com##.tracking-consent-v2
 didriksons.com##.tracking-consent-v2__modal
 matadornetwork.com##.tracking-notice
+trakt.tv##.trakt-cookie-notice
 theblues-thatjazz.com##.transbox1
 browser-use.com##.translate-y-0.md\:bottom-0
 secure.imvu.com##.transparent-overlay
