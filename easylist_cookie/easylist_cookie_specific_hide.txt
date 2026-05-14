@@ -2092,6 +2092,7 @@ evs.com##.language-switcher
 shop.staplescopyandprint.ca##.law25-modal-container
 gaia.com##.layer-modal-footer
 indiegogo.com##.layoutHeader-informationMessageWrapper
+shopcider.com##.lazy-load-component
 iconsumer.com##.lb_overlay
 limerickleader.ie##.leaderboard_container
 glencore.com##.left-3
