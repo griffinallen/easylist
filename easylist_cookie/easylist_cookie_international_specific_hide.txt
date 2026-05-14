@@ -3362,6 +3362,7 @@ hotellhudik.se,strandhotel.se###mb_modules_popups_Container
 isp.se###overlay
 svd.se###schibsted-data-controller-sticky
 fragasyv.se###siteflash
+klart.se###sp_message_container_1457669
 electrokit.com###top-bar
 roninwear.se###wrapper-dx-coki
 kvalster.se###y
