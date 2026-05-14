@@ -1353,6 +1353,7 @@ ignitedfitness.com##.cky-consent-bar
 adresowo.pl,betplay.com.co,click2pharmacy.co.uk,controlup.com,delfi.ee,johnryanbydesign.co.uk,kadencewp.com,oiq.qc.ca,publitas.com,qcs.co.uk,scuffers.com,staples.ca##.cky-consent-container
 adresowo.pl,betplay.com.co,click2pharmacy.co.uk,controlup.com,delfi.ee,johnryanbydesign.co.uk,kadencewp.com,oiq.qc.ca,publitas.com,qcs.co.uk,scuffers.com,staples.ca##.cky-overlay
 jackjones.com##.cky-overlay-custom
+wponetap.com##.cky-popup-center
 clineva.com##.clineva-cookies-info
 oipc.bc.ca##.clsPopupContainer
 corporate.monro.com,expediagroup.com,macysinc.com,ppg.com##.cm
