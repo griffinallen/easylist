@@ -2144,6 +2144,7 @@ adobe.com,investors.com,merixstudio.com,sapabuildingsystem.com,steadfastnz.nz,ta
 bladehq.com##.message-accept-container
 heedbook.com##.message-alert
 gametwist.com##.message__container
+mondaq.com##.message_type_info
 ibei.org##.messages
 foreignaffairs.com##.messages--container--bottom
 met.com##.met-cookie
