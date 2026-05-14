@@ -1404,6 +1404,7 @@ bulova.com,frederiqueconstant.com##.consent-drawer
 ballard-inc.com##.consent-footer
 nextbase.co.uk,nextbase.com,nextbase.eu##.consent-managermain
 fancentro.com##.consent-message
+kun.uz##.consent-modal
 justwatch.com##.consent-notification
 sportskeeda.com##.consent-pop-up
 gla.ac.uk##.consent-switch
