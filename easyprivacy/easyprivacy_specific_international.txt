@@ -126,7 +126,6 @@
 ||plausible.motorpresse.de^
 ||playox.de/analytics/
 ||pons.com/pons-site-website-assets/lib/analytics.min.js
-||pons.com/pons-site-website-int/_astro/website-analytics.$script
 ||potsdamer-stadtplan.com/t.gif
 ||pstt.mtb-news.de^
 ||px.derstandard.at^
@@ -1309,6 +1308,7 @@
 ||t.bukalapak.com^
 ||ta.tokopedia.com/promo/v1/views
 ||tokopedia.com/helios-client/client-log
+||tracker-beam.tempo.co^
 ! Italian
 /~shared/do/~/count/?$image
 ||adnkronos.com/akTracking_isf.js
@@ -2051,6 +2051,7 @@
 ||obozrevatel.com/pixel.png
 ||piccy.info/c?
 ||piccy.org.ua/c?
+||prm.ua/en/events/
 ||remp.nv.ua^
 ||sport.ua/pixel/
 ||stats.itc.ua^

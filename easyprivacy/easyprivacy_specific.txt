@@ -196,6 +196,7 @@
 ||apigw.scmp.com/metrics/monitoring
 ||apigw.scmp.com/pwa-v2-unleash-proxy/proxy/client/metrics
 ||aplus.qwen.ai/aplus.monitor.log_arrival_rate
+||apm.qwant.com^
 ||app-bnkr.b-cdn.net/js/lv.js
 ||app.box.com/app-api/split-proxy/api/metrics
 ||app.box.com/gen204
@@ -266,6 +267,7 @@
 ||bicp-analytics.postscript.io^
 ||bigw.com.au/api/event/
 ||bigw.com.au/events/
+||bikemag.com/.api/admiral
 ||bing.com/fd/ls/GLinkPing.aspx?
 ||bing.com/geolocation/write?
 ||bing.com/mouselog
@@ -337,6 +339,7 @@
 ||cdn.gov.cfigroup.com/webmon/s/source/webmon/$domain=weather.gov
 ||cdn.jsdelivr.net/npm/@adshield/
 ||cdn.reverso.net/rumjs/
+||cdp.howtotrade.com^
 ||cdp.vercel.com/rs/
 ||centerblog.net/stats.js
 ||cgtn.com/api/collect/
@@ -501,6 +504,7 @@
 ||dd.auspost.com.au^
 ||dd.g2.com^
 ||dd.nytimes.com^
+||dd.qwant.com^
 ||dd.viator.com^
 ||ddome-tag.blablacar.com^
 ||dealdash.com/tracker-json
@@ -661,6 +665,7 @@
 ||exr-mms.expertreviews.co.uk^
 ||extendoffice.com/analytics.js
 ||extremetech.com/js/ga.js
+||ezoicanalytics.com/analytics.js
 ||f.cdngeek.com^$domain=edugeek.net
 ||f.pie.org^
 ||f362.nola.com^
@@ -1100,6 +1105,7 @@
 ||meduza.io/stat/
 ||megaplay.cc/cdn-cgi/trace
 ||megatron.igraal.com^
+||mensjournal.com/.api/admiral
 ||mensjournal.com/.bootscripts/analytics.min.js
 ||mentimeter.com/performance-metrics
 ||mercdn.net/assets/scripts/raphaelp
@@ -1127,6 +1133,7 @@
 ||metricsishare.rediff.com^
 ||metro.co.uk/base/rta/
 ||metro.co.uk/cvx/client/sync/fpc?
+||metro.co.uk/wp-content/client-mu-plugins/dist/metro-analytics/
 ||metrobyt-mobile.com/self-service-metro/v1/logging
 ||metroweekly.com/tools/blog_add_visitor/
 ||meucdn.vip/cdn-cgi/trace
@@ -1234,6 +1241,7 @@
 ||nr.noelleeming.co.nz^
 ||nslookup.io/pl.js
 ||ntvid.online/cdn-cgi/trace
+||nvrmd.novaramedia.com^
 ||nyt.com/ads/tpc-check.html$domain=nytimes.com
 ||nytimes.com/v1/purr-cache
 ||nzherald.co.nz/pf/resources/scripts/tracking/data-ref.js
@@ -1281,6 +1289,7 @@
 ||pac.thetimes.com^
 ||papi.stylar.ai^
 ||pappagallu.onefootball.com^
+||paradehomeandgarden.com/.api/admiral
 ||pardot.com/pd.js
 ||partsgeek.com/sspgt/
 ||patient.info/a31h/
@@ -1354,6 +1363,7 @@
 ||pluto.smallpdf.com^
 ||pm.dailykos.com^
 ||pm.geniusmonkey.com^
+||pmnbh.dedcool.com^
 ||pog.com^$ping
 ||poki.com/observer/
 ||politico.com/resource/assets/js.min/video-tracking.
@@ -1386,6 +1396,8 @@
 ||proporn.com/ajax/log/
 ||proxima.midjourney.com^
 ||pt.blubrry.com^
+||public.tableau.com/inst?v=
+||public.tableau.com/public/apis/audit-event
 ||publicwww.com/mtm/mtm.js
 ||pulpulyy.club/cdn-cgi/trace
 ||pulsar.ebay.com^
@@ -1423,6 +1435,7 @@
 ||rainbet.com/api/ping
 ||raindrop.io/pb/api/event
 ||rakuten.com/rmsgjs/soj2.js
+||ralf.curvo.eu^
 ||ranker.com/api/px
 ||ranker.com/api/tr?
 ||ranker.com/api/tracking/comscore
@@ -1609,6 +1622,7 @@
 ||sst.brodo.com^
 ||sst.bwt.com^
 ||sst.carwow.
+||sst.fdiintelligence.com^
 ||sst.shopware.com^
 ||st.sawlive.tv^
 ||stackoverflow.com/_/client-timings
@@ -2163,7 +2177,7 @@
 ||youtube.com/pcs/activeview?
 ||youtube.com/ptracking?html5=1&video_id=*&cpn=*&ei=*&ptk=youtube_*&pltype=content
 ||youtube.com/set_awesome?
-||youtube.com/youtubei/v1/log_event?
+! ||youtube.com/youtubei/v1/log_event?
 ||youtube.googleapis.com/youtubei/v1/log_event?
 ||youtubekids.com/api/stats/ads?
 ||youtubekids.com/api/stats/qoe?

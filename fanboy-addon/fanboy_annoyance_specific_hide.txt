@@ -68,6 +68,7 @@ hentairead.com###popupBannerModal
 imagenimage.com,imagenpic.com,imageshimage.com,imagetwist.com###popupOverlay
 ambotv.com###post-nav
 crimereads.com,lithub.com###post_more_wrapper
+leawo.org###proPop
 picturecorrect.com###promo
 cosmicscans.com###radio-player-container
 aquamanga.com,reaperscans.com###radio_content
@@ -741,6 +742,7 @@ k2s.cc##.file-block > .section-question
 educba.com##.five-sixths
 blogs.opera.com##.floating-section
 goodmenproject.com##.floatingchat-container-wrap
+flyingmag.com##.flyingShopAd
 azuremagazine.com##.flyout
 pirg.org##.flyout1
 bikeradar.com##.footer-promotional
@@ -768,9 +770,12 @@ forums.opera.com##.get-opera
 artnews.com##.get-the-magazine__outer
 novayagazeta.eu##.giqFf
 slaynews.com##.give-embed-form-wrapper
+pcguide.com##.globalDisclosure
 insideedition.com##.got-tip
 mydailyfreedom.com,patriotfetch.com##.gpoll_enabled_wrapper
 grist.org##.grist-modal-ad-blocker
+united24media.com##.gtm-article-small
+united24media.com##.gtm-bottom-popup-article
 consumerreports.org##.guardian-cta
 crealitycloud.com##.guide-register_comp
 theonion.com##.has-background.wp-block-group-is-layout-constrained
@@ -795,6 +800,7 @@ tipranks.com##.hideOnpremium
 48hills.org##.hills-inline-full-width
 heise.de##.ho-bg.z-0.relative
 di.fm##.homepage-upsell
+thatprivacyguy.com##.house
 videogameschronicle.com##.house-patreon-full
 videogameschronicle.com##.house-patreon-mini
 citizensforethics.org##.hp__about-crew
@@ -850,6 +856,7 @@ press.princeton.edu##.m-alert-bar--orange
 city-journal.org##.m_article-donate
 pravda.com.ua##.m_banner
 thereader.mitpress.mit.edu##.ma-don-cont
+audubon.org##.magazine-info
 captimes.com##.main-sidebar-wrap
 investors.com##.market-banner
 degruyterbrill.com,github.com##.marketing-banner
@@ -990,6 +997,7 @@ reneweconomy.com.au##.sc__container_outer
 indianexpress.com##.screen-banner-link
 slideshare.net##.scribd-ad-exit-modal
 golem.de##.sdgSlotContainer
+wbur.org##.section--takeover
 civileats.com##.section-banner
 infoworld.com##.section-block--announcementbar
 news.shib.io##.section-shortcode
@@ -1017,6 +1025,7 @@ splashlearn.com##.signup_cta.tdi_90
 investopedia.com##.sim-promo
 creativefabrica.com##.single-banner-tier
 texasobserver.org##.single-footer__image-wrapper
+stemcell.ucla.edu##.site-banner
 democracydocket.com##.site-footer
 propublica.org##.site-header__banner
 theguardian.com##.site-message--banner
@@ -1071,6 +1080,7 @@ saigoneer.com##.support-us
 kyivindependent.com##.supportUs-article__banner
 stuff.co.nz##.supporter-wrapper
 vg247.com##.supporters_promo
+realestate.com.au##.survey-cta-card
 banggood.com##.suspended-banner-wrap
 opb.org##.sustainer
 restofworld.org##.sustainer_campaign
@@ -1093,6 +1103,7 @@ internationalliving.com##.top-0.bg-deep-sea\/default
 curseforge.com##.top-banner
 aliexpress.com,aliexpress.us##.top-banner-container
 crypto.com##.top-banner__item
+dailygrail.com##.top-bar-message
 jfrog.com##.top-fixed-stripe
 thestayathomechef.com##.top-hat
 banggood.com##.top-item
@@ -1142,6 +1153,7 @@ humanists.uk##.wp-block-humanists-uk-bootstrap-campaigns-block
 humanists.uk##.wp-block-humanists-uk-bootstrap-notes-block
 watchers.news##.wp-block-kadence-infobox
 ms.now##.wp-block-msnbc-announcement
+propublica.org##.wp-block-propublica-donate-cta
 san.com##.wp-block-san-news-popup
 techcrunch.com##.wp-block-techcrunch-inline-cta
 wpr.org##.wp-block-wpr-promotion
@@ -1178,7 +1190,8 @@ theguardian.com##[name="StickyBottomBanner"]
 hackernoon.com##[style*="ad-assets"]
 conservativedailynews.com##[style="background-color: #FBD603; padding: 8px; border: 5px solid;"]
 techdirt.com##[style="width: 300px; height: 360px;"]
-fire.org,montanafreepress.org##[title="Persistent Donate Button"]
+fire.org,montanafreepress.org,peoplefor.org##[title="Persistent Donate Button"]
+peoplefor.org##[title="Popup"]
 psypost.org##[width="300"]
 xhaccess.com,xhamster.com,xhamster.desi##a[class*="promoMessageBanner-"]
 tech-camp.in##a[data-gtm-tcb="TCB_CLICK_scrollbanner_default_exp_income"]
@@ -1545,6 +1558,7 @@ papermtn.co.uk###si-scroll-top
 homemark.co.za,winzzguitars.com###site-scroll
 irusa.org###slide_top
 ugreen.com###t4s-backToTop
+israelnationalnews.com###tbl-next-up
 699pic.com,al-akhbar.com,autoinkoop.nl,classicbid.de,mariahcarey.com,omannews.gov.om,powvideo.net,tageblatt.de###to-top
 thegamecrater.com###to-top-wrap
 amiventures.net,blog.westerndigital.com,confea.org.br,ebar.com,farooqkperogi.com,jqueryscript.net,lagruyere.ch,mieuxvivresante.fr,popmythology.com,pourquoidocteur.fr,stuttgarter-zeitung.de,theapplepost.com###toTop
@@ -1578,6 +1592,7 @@ lelo.ge##.UpButton
 financemagnates.com##.a-scroll-to-top__sticky-wrapper
 getty.edu##.a-scroll-top-btn
 stacker.com##.actions-scroll-to-top
+bricklink.com##.anchor-to-top
 asiaone.com##.ant-back-top
 collectorsweekly.com##.arrow-icon
 analdin.com,reverbpress.com,ugames.tv,uinterview.com,upolitics.com,usports.org,utrips.com##.arrow-up
@@ -1602,6 +1617,7 @@ global.hisense.com##.btn-backtotop
 worldjournal.com##.btn-top
 bravotube.net,telesurtv.net##.btn-up
 koreaherald.com##.btn_top
+bssnews.net##.btn_up
 ipaddress.com##.btt
 qmul.ac.uk##.btt__inner
 staples.ca##.button--back-to-top
@@ -1620,6 +1636,7 @@ about.bgov.com##.fab__scrollTop
 byjus.com##.fixed-up-arrow
 easeus.com##.float_totop
 bikerumor.com##.footer-back-button
+gagadget.com##.footer-slide
 newrepublic.com##.footer__middleRow
 jw.com.au##.footer__scroll-top
 metronieuws.nl##.footer__totop
@@ -1685,7 +1702,7 @@ magazine.medlineplus.gov##.scroll-btn
 fornovn.fo,pronom.it,pronombr.es,pronomejo.net,pronomen.net,pronoms.fr,pronouns.page,zaimki.pl##.scroll-btn[style]
 timesofmalta.com##.scroll-notification-container
 esslinger-zeitung.de##.scroll-to
-50languages.com,advgazeta.ru,boredpanda.com,btgpactual.com,centroculturalfcsn.org.br,cnevpost.com,developer-tech.com,gulftoday.ae,hsn.com,ingolstadt-today.de,intercabos.com.br,iol.co.za,labouroutlook.org,leadingrestaurants.co.uk,lessknownfacts.com,malighting.com,nostalgica.cl,ons.org.br,origo.hu,pandasecurity.com,pbteen.com,peoplematters.in,ptinews.com,radiondadurto.org,saalbach-hinterglemm.nl,sasol.com,westcordhotels.com,westcordhotels.de,westcordhotels.nl##.scroll-to-top
+50languages.com,advgazeta.ru,boredpanda.com,btgpactual.com,centroculturalfcsn.org.br,citizen.co.za,cnevpost.com,developer-tech.com,gulftoday.ae,hsn.com,ingolstadt-today.de,intercabos.com.br,iol.co.za,labouroutlook.org,leadingrestaurants.co.uk,lessknownfacts.com,malighting.com,nostalgica.cl,ons.org.br,origo.hu,pandasecurity.com,pbteen.com,peoplematters.in,ptinews.com,radiondadurto.org,saalbach-hinterglemm.nl,sasol.com,westcordhotels.com,westcordhotels.de,westcordhotels.nl##.scroll-to-top
 tevreden.nl##.scroll-to-top-wrapper
 bl.uk,bracertificadora.com.br,carscoops.com,confartigianato.it,deghi.it,dioezesanmuseum-rottenburg.de,duomontage.nl,grupolarabida.org,lunchroomdekeyser.nl,piunikaweb.com,radiobielefeld.de,radioguetersloh.de,radioherford.de,radiohochstift.de,radiolippe.de,radiowestfalica.de,trabalhabrasil.com.br##.scroll-top
 bluestacks.com##.scroll-top-section
@@ -1698,7 +1715,7 @@ khronos.org,kyivpost.com##.scroll_to
 rogor.ge,ukranews.com##.scroll_top
 sfbayca.com##.scrolled
 peekyou.com##.scrollmeup
-agfk-bw.de,host-tools.com,hostelworld.com,news9live.com,paramorefans.com,spacetourismguide.com,tribuneindia.com,weer1.com##.scrolltop
+agfk-bw.de,gagadget.com,host-tools.com,hostelworld.com,news9live.com,paramorefans.com,spacetourismguide.com,tribuneindia.com,weer1.com##.scrolltop
 nsfw.xxx##.scrolltop-button
 microchip.com,nen.nl##.scrolltotop
 cryptonomist.ch,globalguideline.com,iogames.onl,isanek.com##.scrollup
@@ -1720,7 +1737,7 @@ sears.com##.tap-top
 nasilemaktech.com##.td-read-down
 club386.com,nme.com##.td-scroll-up
 adguard.com##.theme-back-to-top-button
-ansa.it,asianews.it,cacm.acm.org,californiacitynews.org,cnbctv18.com,consolecreatures.com,dmgmori.co.jp,ekathimerini.com,forza.nu,gbnews.com,gunsandammo.com,justapack.com,linuxlookup.com,porngem.com,thedebrief.org,thegrayzone.com,wbdg.org##.to-top
+ansa.it,asianews.it,cacm.acm.org,californiacitynews.org,cnbctv18.com,consolecreatures.com,dailygrail.com,dmgmori.co.jp,ekathimerini.com,forza.nu,gbnews.com,gunsandammo.com,justapack.com,linuxlookup.com,porngem.com,thedebrief.org,thegrayzone.com,wbdg.org##.to-top
 groningerbelang.nl,sinaval.org.br,swm-network.de,synagogewinterswijk.nl##.to-top-container
 denvergazette.com,hampshire-hotels.com,hotelsgravenhof.nl,radaris.com##.toTop
 abitare-in-altoadige.it,automobilismo.it,bostonherald.com,ciclismo.it,cyclistmagazine.it,dailysignal.com,freeviewnz.tv,germany.travel,haier.com,motociclismo.it,nrc.nl,shopperplus.ca,sivtimes.com,svp.eu,thefappening.wiki,velaemotore.it,visitnsw.com,wikiway.com,wohnen-in-suedtirol.it##.top

@@ -1,3 +1,4 @@
+$third-party,xmlhttprequest,domain=mega4upload.net
 /pmc-adm-v2/build/setup-ads.js$domain=bgr.com|deadline.com|rollingstone.com
 /resolver/api/resolve/v3/config/?expType=AppConfig&expInstance=default&apptype=weather&$domain=msn.com
 ||123movies.ai/sab_
@@ -44,7 +45,7 @@
 ||amazonaws.com/cdn.mobverify.com
 ||amazonaws.com/dazeddigital.com/Ads-main.js$domain=dazeddigital.com
 ||amazonaws.com/jsstore/$domain=babylonbee.com
-||amazonaws.com^$domain=megaup.net|uploadhaven.com
+||amazonaws.com^$domain=mangakakalot.gg|nelomanga.net|uploadhaven.com
 ||ams.naturalnews.com^
 ||ams.naturalnewsblogs.com^
 ||ams.newstarget.com^
@@ -192,6 +193,8 @@
 ||dev.to^*/billboards/post_sidebar^
 ||developer.mozilla.org/pong/
 ||devopscon.io/session-qualification/$subdocument
+||dh-widget.android-authority.com^
+||dh.android-authority.com^
 ||dianomi.com/brochures.epl?
 ||dianomi.com/click.epl
 ||dictionary.com/adscripts/
@@ -310,6 +313,7 @@
 ||healthcentral.com/common/ads/generateads.js
 ||helpnetsecurity.com/wp-admin/admin-ajax.php
 ||hentent.stre4mplay.one^
+||hetlmedia.com/1025.js
 ||hideip.me/src/img/rekl/
 ||hltv.org/partnerimage/$image
 ||hltv.org/staticimg/*?ixlib=
@@ -451,7 +455,7 @@
 ||maxroll.gg/js/sponsor.js
 ||mbauniverse.com/sites/default/files/shree.png
 ||media-amazon.com/images/S/apesafeframe/ape/sf/$script
-||media-amazon.com/images/S/sash/$domain=imdb.com
+||media-amazon.com/images/S/sash/$domain=www.imdb.com
 ||media.babylonbee.com/ads/
 ||media.max.com/*/dash.mpd^$domain=cnn.com
 ||media.max.com/*/main.mpd^$domain=cnn.com
@@ -651,6 +655,7 @@
 ||star-history.com/assets/sponsors/
 ||stardb.gg/lootbar_v2.png
 ||startpage.com^*/afs/
+||static-cloudflare.workers.dev^$domain=chessgames.com
 ||static.ad.libimseti.cz^
 ||static.fastpic.org^$subdocument
 ||steamanalyst.com/steeem/delivery/
@@ -752,16 +757,20 @@
 ||worthplaying.com/ad_left.html
 ||wowroms.com/images/Banner336x280.gif
 ||wowroms.com/images/Banner970x250.gif
+||wpengine.com/wp-json/api/advanced_placement/new-in-article/?type=placement^$domain=androidauthority.com
 ||wqah.com/images/banners/
 ||wsj.com/asset/ace/ace.min.js
 ||www.google.*/adsense/search/ads.js
 ||x.castanet.net^
 ||x.com/*/videoads/
+||xcity.org/wp-content/themes/NewsPulse/images/banner300.jpg
+||xcitypass.com/wp-content/themes/NewsPulse/images/banner728.jpg
 ||xing.com/xas/
 ||xinhuanet.com/s?
 ||yahoo.com/m/gemini_api/
 ||yahoo.com/pdarla/
 ||yahoo.com/sdarla/
+||yandex.com/ads/system/context.js
 ||yimg.com/aaq/benji/benji-
 ||yimg.com/rq/darla/$domain=yahoo.com
 ||ynet.co.il/gpt/
