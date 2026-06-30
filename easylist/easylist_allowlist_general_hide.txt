@@ -186,6 +186,7 @@ consumerist.com#@#.after-post-ad
 dailymail.co.uk,thisismoney.co.uk#@#.article-advert
 deluxemusic.tv#@#.article_ad
 adeam.com#@#.atf-wrapper
+flacdownloader.com#@#.banner-ad
 dr.dk#@#.banner-ad-container
 popporn.com#@#.block-ad
 shop.asobistore.jp#@#.block-sponsor

@@ -265,6 +265,7 @@ $third-party,xmlhttprequest,domain=mega4upload.net
 ||financemasterpro.com/prebid-mup/
 ||finviz.com/gfx/banner_
 ||fishki.net/code?
+||flacdownloader.com/ads.js
 ||flippback.com/tag/js/flipptag.js$domain=idsnews.com
 ||fontsquirrel.com/ajaxactions/get_ads^
 ||fontsquirrel.com^*/advertisements/
