@@ -791,7 +791,7 @@ equilar.com,ffonts.net,whatfontis.com###sticky-popup
 firefoxosdevices.org###storage-notice
 strava.com###stravaCookieBanner
 streamify.io###streamify-gdpr
-deboulle.com###tarteaucitronAlertBig
+deboulle.com,mnhn.fr###tarteaucitronAlertBig
 tatsubuilder.com###tatsu-header-container
 buccellati.com,kiabi.com###tc-privacy-wrapper
 kaec.net,thelawpages.com###terms
