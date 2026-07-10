@@ -325,6 +325,7 @@ andinet.de##.coo
 planet-beruf.de##.coo-con
 webcountdown.de##.cooBubble
 der-ersatzteile-profi.de##.coockie_poliy
+gonser.ch,werkenbijcoolblue.nl##.cookie-bar
 dreieich.de,koenigstein.de##.cookie-consent-dialogue
 horeca-hero.com##.cookie-consent-root
 boesendorfer.com##.cookie-consent-wrapper
