@@ -2738,6 +2738,7 @@ solgarvitamin.ru###consent-modal
 gorodperm.ru###cookb
 gazprombank.ru###cookie-accept
 cardiovascular.elpub.ru###cookie-banner-wrapper
+www1.ru###cookie-consent-banner-root
 ria-m.tv###cookie-msg
 companies.rbc.ru###cookie-popup
 violity.com###cookieConsentPopup
