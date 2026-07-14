@@ -1074,6 +1074,7 @@ promotion.simplefx.com##._cookiesDialog_108o2_90
 pixiv.net##._gdpr-notify-header
 dic.pixiv.net##._gdpr-notify-header_replace
 getblock.io##._getblock_ui_cookie_1m598_1
+yenisafak.com##._kvkkWarning_86gjs_1
 my.macpaw.com##._notification_qpb1z_1
 abplive.com##._p_policy
 luisaviaroma.com##._vgSl0cx4ao
