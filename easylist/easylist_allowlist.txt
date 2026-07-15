@@ -191,6 +191,7 @@
 @@||mediaalpha.com/js/serve.js$domain=goseek.com
 @@||micro.rubiconproject.com/prebid/dynamic/$script,xmlhttprequest,domain=gamingbible.co.uk|la7.it|ladbible.com|sportbible.com|viki.com
 @@||moatads.com^$script,domain=imsa.com|nascar.com
+@@||monetag.com^domain=net77.cc
 @@||motortrader.com.my/advert/$image,~third-party
 @@||mtouch.facebook.com/ads/api/preview/$domain=business.facebook.com
 @@||nascar.com/wp-content/themes/ndms-2023/assets/js/inc/ads/prebid8.$~third-party
