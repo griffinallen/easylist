@@ -1421,6 +1421,7 @@ adresowo.pl,becleverwithyourcash.com,betplay.com.co,bluebird.hu,bluebirdinternat
 jackjones.com##.cky-overlay-custom
 clineva.com##.clineva-cookies-info
 oipc.bc.ca##.clsPopupContainer
+phoenixnewtimes.com##.clym-widget-notice
 corporate.monro.com,expediagroup.com,macysinc.com,ppg.com##.cm
 singular.com.cy##.cm-notification-container
 moddrop.com##.cm-z-4
