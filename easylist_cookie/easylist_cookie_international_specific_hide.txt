@@ -3638,6 +3638,7 @@ hemfrid.se##.xdmFo
 inet.se##[aria-label="Cookies"]
 hometogo.se##[data-test="cookie-consent-notification"]
 elfynd.se##[style="position: fixed; bottom: 0px; left: 0px; right: 0px;"]
+040.se##div#klaro
 blockbuster.dk,sfanytime.com##div[class^="GlobalCookieBanner__"]
 hejalbert.se##div[class^="styles_cookiesContainer_"]
 vk.se##div[style^="display: flex; align-items: center;"]
