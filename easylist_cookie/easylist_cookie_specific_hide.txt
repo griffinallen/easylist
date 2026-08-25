@@ -2708,6 +2708,7 @@ bp.com,davines.com,us.davines.com##.syrenis-cookie-widget
 amplitude-studios.com,games2gether.com##.system-notification-container
 termly.io##.t-consentPrompt
 distro.tv##.tandc-wrapper
+pompes-direct.com##.tarteaucitronBeforeVisible
 app.machobb.com##.tblr-bottom
 business.truecaller.com##.tc__cookie-wrap--outer
 playok.com##.tcell
