@@ -2452,6 +2452,7 @@ rankomat.pl##.rank-cookie-bar
 prk24.pl##.rk-cookie-overlay
 alloc.pl,bagpolska.pl,dzieciwnature.pl,ecowater.md,ecowater.sk,ecowatersystems.cz,genesis.pl,mikolaj.org.pl,pkf.org.pl,teologiapolityczna.pl,yourcityguides.com##.rodopolicy
 scanner.com.pl##.rstboxes
+myphone.pl##.s_popup
 home.pl##.sc-1ykjjm8-0.lofKxQ
 cire.pl##.sc-btewqU
 bazarynek.pl##.send_akt
