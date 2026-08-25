@@ -2480,6 +2480,7 @@ filtry-wody.pl##.zdzCookies
 pzkosz.pl##.zgoda_na_przetwarzanie
 shopee.pl##.zsav9a
 knf.gov.pl##[aria-labelledby="cookie-info-title"]
+novodom.pl##[data-cookie-permission="true"]
 pracuj.pl##[data-test="modal-cookie-bottom-bar"]
 kurnik.pl,otoprzychodnie.pl##[style^="position: fixed; left: 0px; top: 0px;"]
 swiat-agd.com.pl##[style^="top:0;left:0;right:0;"]
