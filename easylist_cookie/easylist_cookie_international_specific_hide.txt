@@ -1776,6 +1776,7 @@ sbilife.co.in##.header-text-contener
 dinamalar.com##.quickslide
 jiosaavn.com##.site-message-container
 vikatan.com##.styles-m__cookieConsent__3ixt3
+jiotvforpcapkdownload.in##[aria-label="This website uses cookies"]
 !
 ! ---------- Italian ----------
 !
