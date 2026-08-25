@@ -3247,6 +3247,7 @@ dubravka.sk###set-win-coo
 alkoshop.sk##.alkoshop-cookies-notice-bar
 commercservice.sk##.cc_disclaimer
 winnersgroup.sk##.cks-m
+xxlgamer.sk##.cookie-consest
 zadania-seminarky.sk##.cookieBaner
 daffer.sk##.csXMIs
 nbazar.sk##.eu
