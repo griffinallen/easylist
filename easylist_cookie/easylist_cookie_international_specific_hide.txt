@@ -1081,6 +1081,7 @@ merkur-casino.cz##.comp__cookieBar
 dejtip.eu##.conset-wrap
 fraus.cz##.container__body
 trepart.cz##.cookie-choices-bg
+xxlgamer.cz##.cookie-consest
 jihostroj.com##.cookiePolicy
 mikov.cz##.cookieconsent-com---nb
 bidli.cz,diadny.cz,domibags.cz,ibdkurz.cz,shop-wedrink.com##.cookies-canvas
