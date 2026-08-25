@@ -10,6 +10,7 @@ snitcher.com###CoCon
 gate.com###ComplianceLimitMessageCOOKIES_POLICY
 wineinvestmentfund.com###Contentplaceholder1_TAEB3815A051_Col00
 fruugo.co.nz###CookieBanner
+hacksawgaming.com###CookieConsentModal
 mauldineconomics.com###CookieControl
 audiot.co.uk###CookieRequester
 target.com.au###CookieUseAgreement
