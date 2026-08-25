@@ -3326,7 +3326,7 @@ companies.rbc.ru,creamher.com,dorotheum.com,inform-ua.info,klops.ru,mrluckyraw.c
 !! #consentManager
 privateproperty.co.za###consentManager
 !! aria-label="cookieconsent"
-norwegianholidays.com,sedecatastro.gob.es##[aria-label="cookieconsent"]
+lggjewelry.com,norwegianholidays.com,sedecatastro.gob.es##[aria-label="cookieconsent"]
 !! #cookie-modal
 aalberts.com,ajbell.co.uk,escortboard.de,eurowag.com,stat.fi,tu-darmstadt.de,unesdoc.unesco.org,vkf-renzel.nl###cookie-modal
 !! #cknt
