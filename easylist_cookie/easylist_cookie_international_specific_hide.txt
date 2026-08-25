@@ -1724,6 +1724,7 @@ maxigumi.hu##.content-bottom-fullwidth
 nemzetiutdij.hu##.cookie-alert
 fressnapf.hu##.cookie-base
 azevfodrasza.hu,tihanyiszabadterijatekok.hu##.cookie-consent-info
+xxlgamer.hu##.cookie-consest
 foramax.hu,mp4bolt.hu##.ct
 obi.hu##.disc-cp
 fressnapf.hu##.grey-popup-layer
