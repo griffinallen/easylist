@@ -3535,6 +3535,7 @@ vw.com.mx###ensNotifyBanner
 loging.mk##.showBackdrop
 loging.mk##.showConsent
 sedeelectronica.sic.gov.co##[aria-label="Aviso de cookies"]
+eltiempo.es##div#didomi-host
 !
 ! ---------- Catalan ----------
 !
