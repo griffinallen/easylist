@@ -271,6 +271,7 @@ ritani.com###cookie-info-banner
 baltic.art,keywordsstudios.com,uofmhealth.org###cookie-law
 cpac.ca###cookie-law-bar-holder
 ecigarettedirect.co.uk###cookie-message-slide-in
+getbring.com###cookie-notice-div
 dirsyncpro.org###cookie-notice-modal
 energylivenews.com###cookie-notification-mask
 broadwayinchicago.com###cookie-oven-consent-dialog
