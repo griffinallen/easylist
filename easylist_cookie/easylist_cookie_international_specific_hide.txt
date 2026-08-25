@@ -1914,6 +1914,7 @@ iosi.nexi.it##.cl-banner-body
 ebible.it##.clm
 bontempi.it##.colaw-div
 centrogamma.com##.contPopup
+xxlgamer.it##.cookie-consest
 automercatoavenoso.it##.cookieBox-Main
 bioinsuedtirol.it,esselungajob.it##.cookiePolicy
 parmacalcio1913.com##.cookie_window
