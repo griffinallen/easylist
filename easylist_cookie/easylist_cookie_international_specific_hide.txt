@@ -1131,6 +1131,7 @@ esotravel.cz##.warning-modal
 forendors.cz##.wrapper_dhhcz
 tesco.cz##[aria-label="consent-banner"]
 coalsoft.cz##[style^="position: fixed; left: 0px;"]
+eshop.nautica360.cz##div#cookiePanel
 nacesty.cz##div.popup-shade
 studentagency.cz##div[aria-labelledby="cookiesTitle"]
 supraphonline.cz##div[style^="text-align:left; padding: 10px 20px; background-color: #FFF;"]
