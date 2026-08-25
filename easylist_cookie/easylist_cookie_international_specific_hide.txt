@@ -313,6 +313,7 @@ ifaa.de##.cmnstr-outer
 verivox.de##.cmp-container
 textil24.net##.cmp_container
 lbbw.de##.component-data-protection-consent
+tanulommagamtanfolyam.hu,viennasoundclub.at##.consent-banner-root
 hawesko.de##.consent-cookie-box
 medicon-apotheke.de##.consent-widget
 lichtwelle-erkrath.de,neander-energie.de,stadtwerke-erkrath.de##.consent-wrap
