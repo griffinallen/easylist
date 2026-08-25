@@ -3017,6 +3017,7 @@ shop.orqafpv.com##csm-cookie-consent
 czds.icann.org##czds-cookie-notification
 daily.dev#?#.bottom-0.fixed:has-text(This site uses cookies)
 c.realme.com##div > .cookie-privacy
+careers.waystar.com##div.cookie-message
 thumbnailcreator.com##div.fixed:has([href="/cookie-policy"])
 minimax.io##div.fixed:has([href="/protocol/cookie-policy"])
 my.worldmobile.io##div.fixed:has([href="https://worldmobile.io/en/cookies"])
