@@ -3532,6 +3532,7 @@ iryo.eu##wc-cookies-manager
 !----------- Macedonian -----------
 !
 vw.com.mx###ensNotifyBanner
+xxlgamer.es##.cookie-consest
 loging.mk##.showBackdrop
 loging.mk##.showConsent
 sedeelectronica.sic.gov.co##[aria-label="Aviso de cookies"]
