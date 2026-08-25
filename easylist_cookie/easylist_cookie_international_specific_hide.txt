@@ -224,6 +224,7 @@ tuigroup.com###tui-cc
 ru-geld.de###uca-info
 stadtwerke-herne.de,stadtwerke-witten.de###vinegar-bottle
 maengelmelder.essen.de###wdw-cookie-consent
+asviva.de,s-medic.co.il###website_cookies_bar
 palverlag.de###whCookieManager
 suhrkamp.de###whcm
 freieliste.li###wm-cookies-cookiebar
