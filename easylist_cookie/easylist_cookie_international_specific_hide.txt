@@ -1518,6 +1518,7 @@ box.gr##box-cookies
 cosmoteinsurance.gr##cookies-concent
 myrewardscoupons.dei.gr##div[class^="cookies_"]
 ertflix.gr##div[data-test="cookie-policy"]
+aegeospas.gr##form#cookieconsentform
 !
 ! ---------- Hebrew ----------
 !
