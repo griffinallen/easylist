@@ -2788,6 +2788,7 @@ romedic.ro###cookbox
 mobiladenver.ro###cookie-bar
 pajurca.ro###cookiesmodal
 mersultrenurilor.infofer.ro###div-cookie-all
+adidas.ro###manage-consent-tracking
 mediafax.ro###ot-sdk-btn
 foxracing.ro###overlay_gdpr_autentic
 foxracing.ro###overlay_gdpr_autentic_content
