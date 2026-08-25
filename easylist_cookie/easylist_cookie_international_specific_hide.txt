@@ -2128,6 +2128,7 @@ ecobaltiavide.lv##.popup-filter
 aio.lv##.popup-message
 via-s.lv##.priv
 maminuklubs.lv##.set_cookie
+rigassatiksme.lv##[data-cookie-revision="1"]
 eparaksts.lv##usps-cookie-confirmation
 !
 ! ---------- Lithuanian  ---------
