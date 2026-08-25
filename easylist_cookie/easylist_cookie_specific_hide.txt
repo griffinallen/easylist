@@ -1482,6 +1482,7 @@ app.traderepublic.com,vdo.ai##.consentCard
 sony.co.id##.consent__overlayHandler
 fullscript.com##.consent__popup
 remotly.com##.consent_container
+visitarizona.com##.consent_opt-out_banner
 xing.com##.consent_wrapper
 vcol.co.uk##.consentmaincontainer
 papayaplay.com##.cont--cookie
