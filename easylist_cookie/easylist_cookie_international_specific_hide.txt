@@ -1462,6 +1462,7 @@ clipper-teas.fi##.v--modal-overlay
 varma.fi##.varma-footer-sticky
 vts.fi##.vt-disclaimer
 phonelife.fi##.w1xroek9
+iltalehti.fi##[aria-labelledby="sp_message_iframe_1388007"]
 sttinfo.fi##[class^="styledBarNotification__BarNotificationWrapper"]
 telia.fi##[data-component-data*="cookie-consent"]
 paivyri.fi##[style="width:100%;background-color:#F0F0F0;padding:10px;text-align:center"]
