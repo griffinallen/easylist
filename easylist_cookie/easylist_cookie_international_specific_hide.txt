@@ -3570,6 +3570,7 @@ askimsrostfria.se###js-cm-claw
 scb.se###kakrutan
 hotellhudik.se,strandhotel.se###mb_modules_popups_Container
 isp.se###overlay
+riksteatern.se###rt-block-cookies
 svd.se###schibsted-data-controller-sticky
 fragasyv.se###siteflash
 su.se###svid10_1c7635ca19b2be312be596
