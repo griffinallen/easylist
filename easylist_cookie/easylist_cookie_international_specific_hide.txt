@@ -591,6 +591,7 @@ grills.de,koempf24.de##.z-100.justify-center
 mein-gartenshop24.de##.z-100.py-6
 gartengeraete-onlineshop.de##.z-100.py-6.max-h-screen
 swu.de##[class*="-banner"]
+auto-doc.ch##[data-popup]
 gutscheine.de##[data-ssr-consent]
 notebooksbilliger.de##[data-testid="uc-app-container"]
 meinungsstark.de##[role="dialog"]
