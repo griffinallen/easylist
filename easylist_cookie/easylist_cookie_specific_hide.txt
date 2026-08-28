@@ -2712,6 +2712,7 @@ amplitude-studios.com,games2gether.com##.system-notification-container
 termly.io##.t-consentPrompt
 distro.tv##.tandc-wrapper
 app.machobb.com##.tblr-bottom
+kiabi.com##.tc-privacy-wrapper
 business.truecaller.com##.tc__cookie-wrap--outer
 playok.com##.tcell
 tudorwatch.com##.tdr-ribbon
