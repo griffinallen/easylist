@@ -1964,6 +1964,7 @@ fedex.com##.fxg-alert__fdx_cookie_notice
 fxstreet.com##.fxs_footer
 cgtn.com##.g-dialog
 replika.ai,replika.com##.gEQwvO
+antarestech.com##.gWziCo
 whatsnewonthenet.com##.gaoop
 graviti.com##.gas-cookie-bar
 themeflood.com##.gatewayContainer
