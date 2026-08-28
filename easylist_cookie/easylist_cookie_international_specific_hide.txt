@@ -321,6 +321,7 @@ hoeffner.de,moebel-kraft.de,sconto.de##.consentForm__container
 schwaebische.de##.consent_bar
 medistore.at##.consent_box_wrapper
 dbna.com##.consentbar
+ercomer.pl,miodykrupiec.pl,modivo.de,motohid.pl,planszostrefa.pl,questsport.shop,skarbyroztocza.com##.consents
 weinzeche.de##.container-cookieconsent
 nomadays.de##.container-fixed-cookie
 andinet.de##.coo
