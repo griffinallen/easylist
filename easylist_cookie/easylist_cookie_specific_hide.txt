@@ -2587,6 +2587,7 @@ carrot.tech##.rcc
 sportsnet.ca##.rdm-daac-notice-template
 cascada.try.be##.react-cookie-policy
 atlas.nomic.ai,digitalbook.io##.react-cookienotice-root
+sklep.plast-pol.com##.realCookies
 blacklimba.com##.recommendation-modal__backdrop
 hazlitt.net##.region-masthead-inner
 remaker.ai##.remaker-container-footer-cookie
