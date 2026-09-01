@@ -3279,6 +3279,7 @@ speedmeter.sk##.w_notice
 itesco.sk##[aria-labelledby="ddsweb-cookies-notification-headline"]
 posta.sk##[src="https://static.posta.sk/cookies-consents/dialog/sk/index.html"]
 spsjm.sk##[style^="position: fixed; bottom: 0px;"]
+xxlgamer.sk##aside.cookie-consest
 tescoma.sk##div[data-testid="layout-popup"]
 amaterky.sk##div[style^="padding-top: 10px; padding-bottom: 10px;"]
 magiogo.sk##div[style^="width: 100%; display: flex;"]
