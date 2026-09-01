@@ -331,6 +331,7 @@ dreieich.de,koenigstein.de##.cookie-consent-dialogue
 horeca-hero.com##.cookie-consent-root
 boesendorfer.com##.cookie-consent-wrapper
 crossnative.com##.cookie-consent_overlay__SIXMM
+xxlgamer.cz,xxlgamer.de,xxlgamer.es,xxlgamer.hu,xxlgamer.it,xxlgamer.nl,xxlgamer.pl,xxlgamer.sk##.cookie-consest
 matec.de,myconvotherm.de##.cookie-inquiry-wrapper
 idw.de##.cookie-manager__overlay
 peax.ch##.cookie-note
