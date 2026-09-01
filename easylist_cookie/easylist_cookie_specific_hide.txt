@@ -924,6 +924,7 @@ jksrestaurants.com##.Cookie-message
 weverse.io##.CookieAgreeView_container__qYaK3
 radioplayer.vistaradio.ca##.CookieBanner-module__wrap--1QK9t
 makeupstore.com##.CookieBanner__cookie
+mimo.mi.com##.CookieBanner_banner__Dl_G3
 kaspersky.com,kaspersky.com.au##.CookieBanner_bottom__Xgcqc
 makeship.com##.CookieBar__CookieConsentWrapper-sc-1tdtgkj-0
 gobranded.com##.CookieBar_cookieBar__3qk4d
