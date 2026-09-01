@@ -2494,6 +2494,7 @@ pracuj.pl##[data-test="modal-cookie-bottom-bar"]
 kurnik.pl,otoprzychodnie.pl##[style^="position: fixed; left: 0px; top: 0px;"]
 swiat-agd.com.pl##[style^="top:0;left:0;right:0;"]
 info-car.pl##app-accept-cookies
+xxlgamer.pl##aside.cookie-consest
 pirolam.pl##body > div[style*="100%"]
 ingbank.pl##cookie-policy
 elektrotechnikautomatyk.pl##div[class^="GDPRCookieInfo_"]
