@@ -1375,6 +1375,7 @@ zoover.nl##[data-cy="consent-wrapper"]
 nederlandseloterij.nl##[data-test="common-consent"]
 princeclausfund.nl##[x-ref="cookies"]
 snsbank.nl##ap-cookie-consent
+xxlgamer.nl##aside.cookie-consest
 npo.nl##ccm-notification
 landal.nl##consent-slide-in-component
 fyn.nl##cookie
