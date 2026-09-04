@@ -2238,6 +2238,7 @@ przystanki.bialystok.pl,przystanki.mzktomaszow.pl###cookie-info-overlay
 jakon-inwest.pl###cookieBackdrop
 jakon-inwest.pl###cookieModalInfo
 stylchen.pl###cookieMonsterOvr
+defenderpolska.pl###cookieNotice
 binkowskihotel.pl###cookieWarningNew
 stoszowice.pl###cookie_info
 esbank.pl###cookie_info_es
