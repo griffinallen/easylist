@@ -845,6 +845,7 @@ stingray.com###tracking-popup
 privacy.org.nz###trackingmessage
 tracxn.com###tracxn-cookie-consent-banner-root
 clay.com,visionworks.com###transcend-consent-manager
+airtable.com###transcend-consent-ui
 undercurrentnews.com###ucn-gdpr-overlay
 uconn.edu###uconn-c-notice
 strikermanager.com###ue
