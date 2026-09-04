@@ -2642,6 +2642,7 @@ solverde.pt##.cms-cookies-regulation-message
 tuasaude.com##.consent-bar-wrapper
 piep.pt##.consentcookie_168_
 sescsp.org.br##.container-policy
+purepeople.com.br##.cookie-banner-container
 3r-ambiental.com.br##.cookieConsentContainer
 ojogodobicho.com##.cookies-eu-banner
 baglass.com##.cookiesDiv
