@@ -56,6 +56,7 @@ technik-museum.de###cmnstr-alert
 postleitzahl.org###cmp
 jmmgc.com###cnotice
 direktbroker-fx.de###cologindiv
+hotel-forstinger.at###condeon-consentmanager
 ruegenmagic.de###confirm_cookies
 mathaeser.de,reka.ch###consent
 patienten.helios-gesundheit.de###consent-dialog
