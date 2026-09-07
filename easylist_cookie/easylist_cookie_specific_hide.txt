@@ -2254,7 +2254,7 @@ ibei.org##.messages
 foreignaffairs.com##.messages--container--bottom
 met.com##.met-cookie
 metrobankonline.co.uk##.metro-cookiebar__block
-hakmar.com.tr,muffingroup.com,syoncon.com##.mfn-cookies
+dietetycy.org.pl,hakmar.com.tr,muffingroup.com,syoncon.com##.mfn-cookies
 malaysiaairlines.com##.mfp-bg
 malaysiaairlines.com##.mfp-wrap
 mercedes-benz-bus.com,mercedes-benz.com##.mgs-cookie
