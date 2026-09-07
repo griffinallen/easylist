@@ -2235,6 +2235,7 @@ krsystem.pl###cook_cover
 login.ingbank.pl###cookie-banner-region
 eastnews.pl###cookie-frame
 przystanki.bialystok.pl,przystanki.mzktomaszow.pl###cookie-info-overlay
+laserdelux.pl###cookie-popup-initial
 jakon-inwest.pl###cookieBackdrop
 jakon-inwest.pl###cookieModalInfo
 stylchen.pl###cookieMonsterOvr
