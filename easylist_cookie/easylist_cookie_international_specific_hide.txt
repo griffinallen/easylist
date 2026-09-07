@@ -2257,6 +2257,7 @@ redbullmobile.pl###didomiBlockNavigation
 kinonh.pl###div_ac
 asc-pro.pl,maciej.je###flexiblecookies_container
 elektrykasklep.pl###ftccbcmd
+budzetobywatelski.pl###full_cookie_info_wrapper
 idream.pl###garua_cookie_consent_popup
 grupapracuj.pl###gp_cookie_agreements
 rmf24.pl###gr-consent-layer-area
