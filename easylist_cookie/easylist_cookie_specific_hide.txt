@@ -1,3 +1,4 @@
+is.fi##[aria-labelledby="sp_message_iframe_1510305"]
 ! easylist_cookie_specific_hide.txt
 lyrath.com###ACClayerBackground
 adoc.pub###ADOCPUB_cookie_boxx
