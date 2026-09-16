@@ -1,3 +1,4 @@
+unica.istruzione.gov.it##.lfr-layout-structure-item-unica-banner-cookie
 ! easylist_cookie_specific_hide.txt
 lyrath.com###ACClayerBackground
 adoc.pub###ADOCPUB_cookie_boxx
