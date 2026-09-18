@@ -2242,7 +2242,7 @@ jakon-inwest.pl###cookieBackdrop
 jakon-inwest.pl###cookieModalInfo
 stylchen.pl###cookieMonsterOvr
 binkowskihotel.pl###cookieWarningNew
-stoszowice.pl###cookie_info
+stoszowice.pl,wfosigw.wroclaw.pl###cookie_info
 esbank.pl###cookie_info_es
 net-s.pl###cookie_info_sel1_n
 bankmillennium.pl###cookie_modal_placeholder
