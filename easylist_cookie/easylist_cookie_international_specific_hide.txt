@@ -1112,6 +1112,7 @@ kudyznudy.cz##.j-cinfo
 ppfbanka.cz##.js-cookies
 nevyhazujto.cz##.jss363
 flajzar.cz##.justify-content-center
+konzolista.cz##.knz-pop
 portalprazana.cz##.lavwna
 robe.cz##.lgGaFu.sc-AxiKw
 interion.cz##.mcc-modal
