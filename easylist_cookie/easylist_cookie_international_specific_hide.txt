@@ -3509,6 +3509,7 @@ revista.seg-social.es##.portlet-cookies-layout-set
 bonpreuesclat.cat##.privacy-info-message
 chevignon.com.co##.pruebasgcosap-commons-components-0-x-cookieGco
 extension.uned.es##.qCookieAnimacionEntrada
+radio-espana.es##.qc-cmp2-container
 fotocasa.es##.re-SharedCmp
 monchoscatering.com##.reveal-modal
 tablondeanuncios.com##.reveal-overlay
