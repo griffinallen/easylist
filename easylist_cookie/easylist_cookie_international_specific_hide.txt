@@ -2201,6 +2201,7 @@ vistaland.com.ph##.privacy_modal
 axa.com.ph##.top-content-bar
 !
 ! ---------- Polish ----------
+perfumeriaonlyone.pl##.awolg-consent-mode
 !
 dymosklep.pl###BoxCookie
 coig.com.pl,derma-line.waw.pl,digitalart.pl,grekop.pl,metmax.com.pl,mijo.pl,rajdowiec.waw.pl,willastaropolska.pl,wypozyczalnialaptopow.pl,wypozyczalniaprojektorow.pl###BoxLine
