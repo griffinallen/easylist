@@ -58,6 +58,7 @@ jmmgc.com###cnotice
 direktbroker-fx.de###cologindiv
 ruegenmagic.de###confirm_cookies
 mathaeser.de,reka.ch###consent
+gaius-lex.de###consent-banner
 patienten.helios-gesundheit.de###consent-dialog
 swissquote.ch###consent-form-root
 computeruniverse.net###consent-layer
