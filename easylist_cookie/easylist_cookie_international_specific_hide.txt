@@ -1280,6 +1280,7 @@ deroosbv.com##.cookie-permission-container-popup-backdrop
 abmulderbv.nl,igorski.nl##.cookie-wall
 grandprixradio.nl##.cookies-popup-background
 grandprixradio.nl##.cookies-popup-dialog
+cameranu.nl##.cookies-popup-v3
 burgermeester.amsterdam,museumvanloon.nl##.cookiesmelding
 menzis.nl##.cookiewall
 omroepflevoland.nl##.cookiewall-banner-container
