@@ -2230,6 +2230,7 @@ webd.pl###cffc
 almamarket.pl,kozy.pl###claw
 pobieralnia.org###close
 generatorkodowkreskowych.pl###cn
+gaius-lex.pl###consent-banner
 oglaszamy24h.pl###consentModal
 centrumrowerowe.pl###consentsPolicyDialog
 przyspiesz.pl###container_vsm
