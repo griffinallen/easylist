@@ -3355,6 +3355,7 @@ cdecomunicacion.es###ca_banner
 caf.com###cafModal
 parquesnacionales.cnig.es###capa_galleta
 elpicazo.org###configuracion_cookies
+gaius-lex.es###consent-banner
 contasimple.com###consentModeDialogContainer
 hotelhonucai.com###container-screen
 aportesenlinea.com###containerActionMessage
