@@ -3568,7 +3568,7 @@ agendatrad.org,alarabiya.net,alhadath.net,bagira.bg,buonmenu.com,cardzmania.com,
 !! ^.cookiesBanner-
 interacty.me,wetaca.com##div[class^="cookiesBanner"]
 !! .cli-bar-popup
-reproduccionasistida.org,salmonsoftware.ie,wemabank.com##.cli-bar-popup
+reproduccionasistida.org,salmonsoftware.ie,torpartynice.pl,wemabank.com##.cli-bar-popup
 !! .cky-modal-backdrop
 gecina.fr,kettlewellcolours.co.uk,popsa.com,startupjobs.cz##.cky-modal-backdrop
 !! CookiesModal
