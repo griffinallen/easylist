@@ -3963,7 +3963,7 @@ icko-apiculture.com##.amgdprcookie-modal-template
 !! .bottom-0.position-fixed
 carsharingi.ru,garant.ru,jenner.com,kwebler.com,legiscope.com,likud.org.il,nmsu.edu,tech-america.com,waracle.com##.bottom-0.position-fixed
 ! .bottom-0.left-0
-fnx.co.il,sprintersports.com,xxlnutrition.com##.bottom-0.left-0
+fnx.co.il,serwis-zebry.pl,sprintersports.com,xxlnutrition.com##.bottom-0.left-0
 ! .bottom-0.right-0
 educationendowmentfoundation.org.uk,rshb.ru##.bottom-0.right-0
 !! .bottom-0.relative
