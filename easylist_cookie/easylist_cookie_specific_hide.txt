@@ -3056,6 +3056,7 @@ czds.icann.org##czds-cookie-notification
 daily.dev#?#.bottom-0.fixed:has-text(This site uses cookies)
 tickets.sagradafamilia.org##dialog.cookies__modal
 c.realme.com##div > .cookie-privacy
+peak11.com##div.coookie-consent-container
 thumbnailcreator.com##div.fixed:has([href="/cookie-policy"])
 minimax.io##div.fixed:has([href="/protocol/cookie-policy"])
 my.worldmobile.io##div.fixed:has([href="https://worldmobile.io/en/cookies"])
