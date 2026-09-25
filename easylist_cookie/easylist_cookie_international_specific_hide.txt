@@ -2361,7 +2361,7 @@ paynow.pl##.Cookies-module-cookies_121T
 mednavi.pl##.CookiesNotice
 fanex.pl##.Cookies_container__Q_rPy
 bookland.com.pl##.GDPR-Popup
-policja.pl,przystanekhistoria.pl##.JSWrapper
+bip.radom.pl,policja.pl,przystanekhistoria.pl##.JSWrapper
 odrabiamy.pl##.Rodo_blur__cnKdN
 motopedia.otomoto.pl##.SRaBM
 reportaz.polskieradio.pl##.TermsOfUseModal_modalWrapper__3bWPX
