@@ -817,7 +817,7 @@ wpastra.com###surecookie-public-root
 saladfingersstore.com###sw-cookie-consent-widget
 deboulle.com,index-education.com,offi.fr###tarteaucitronAlertBig
 tatsubuilder.com###tatsu-header-container
-buccellati.com,kiabi.com###tc-privacy-wrapper
+buccellati.com,credit-agricole.fr,kiabi.com###tc-privacy-wrapper
 kaec.net,thelawpages.com###terms
 cars.co.za###terms-and-conditions
 comexlive.org,dowfutures.org,liveindex.org,sgxnifty.org###terms-bar
