@@ -1791,6 +1791,7 @@ arionbanki.is#?#.MuiSnackbar-anchorOriginBottomLeft:has-text(Við notum kökur)
 !
 ! ---------- Indian ----------
 !
+pib.gov.in###pibConsentBanner
 mohfw.gov.in##.CookieConsent
 myvi.in##.CookieConsent_cookieBox__G2Gpm
 gujaratsamachar.com##.CookiesModel
