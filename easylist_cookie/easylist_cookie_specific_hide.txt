@@ -437,7 +437,6 @@ metatrader4.com###float-vertical-panel
 deriv.com###flowappz-cookie-consent
 financesonline.com###fodp-cookies-consent
 yodiz.com###footMsgYodiz
-alternative.me,motorsport.com,pdf24.org###footer
 allsoft.by,allsoft.ru,auth.sparxmaths.uk###footer-cookie-banner
 pocketgamer.biz###footer-mailer
 flynas.com###footer-message
@@ -3170,7 +3169,7 @@ bosch-professional.com##dock-privacy-settings
 angular.dev##docs-cookie-popup
 fedex.com##fedex-gdpr
 fi.google.com##fi-cookie-consent
-welcome.sparxmaths.uk##footer
+alternative.me,duwo.opole.uw.gov.pl,motorsport.com,pdf24.org,welcome.sparxmaths.uk##footer
 getgreatcareers.com##gc-accept-cookie
 globalsolaratlas.info##gsa-cookie-banner
 hathitrust.org##hathi-cookie-consent-banner
