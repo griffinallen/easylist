@@ -4038,7 +4038,7 @@ bizartgallery.com,e-kiriazis.gr,irakleitos.gr,sapon.gr,skolahotelnictvi.cz,topit
 !! cookieNot
 citigroup.com,clearscore.com,voguescandinavia.com##div[class^="cookieNot"]
 !! #cookiemodal
-e-pity.pl,santam.co.za###cookiemodal
+e-pity.pl,fillup.pl,santam.co.za###cookiemodal
 ! .cp-popup
 foxandbriar.com##.cp-popup
 foxandbriar.com##.cp-popup-container
