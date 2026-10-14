@@ -2779,7 +2779,7 @@ ikea.com##.toast-container
 odeoncinemasgroup.smg.com##.toast-info
 studee.com##.toast-notification
 cmocro.com,toptests.co.uk##.toastify-bottom
-xxlnutrition.com##.top-0.left-0
+doppelherz.pl,xxlnutrition.com##.top-0.left-0
 laurentianbank.ca##.top-0.sticky
 siila.com##.top-banner
 china-airlines.com,flyscoot.com##.top-bar
