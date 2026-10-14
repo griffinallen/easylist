@@ -2190,6 +2190,7 @@ sikkasoft.com##.kb-container
 theculturetrip.com##.kcTwAg
 bronze.ai##.kdNCNe
 kdkcn.com##.kdk-cookie
+breuninger.com##.keks-privacy-layer
 loxam.com##.khZIi
 brauwelt.com##.kick-kcm-overlay
 brauwelt.com##.kick-kcm-settings
