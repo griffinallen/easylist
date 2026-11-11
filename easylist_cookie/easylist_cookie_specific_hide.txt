@@ -2136,7 +2136,7 @@ ironstudios.com##.ironusa-cookie-modal-0-x-modal
 uizard.io##.irypxG
 curiousconcept.com##.is-consent
 vuejsdevelopers.com##.is-fixed-bottom.navbar
-pagetiger.com##.is-open
+pagetiger.com,theboxtree.co.uk##.is-open
 nordicguarantee.com##.itc-cc
 insighttimer.com##.items-start.flex.rounded
 itv.com##.itv-glob-foot__cookies
